@@ -14,6 +14,7 @@ author: Andreas Wohnig, Giovanni Monea, Alexis Rodriguez, Simon Martin
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Source-Code: "https://github.com/epfl-ada/ada-2021-project-wranglingguys"
   About us: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
