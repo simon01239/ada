@@ -14,7 +14,7 @@ author: Andreas Wohnig, Giovanni Monea, Alexis Rodriguez, Simon Martin
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "about us"
+  About us: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
