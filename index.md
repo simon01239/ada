@@ -7,9 +7,11 @@ subtitle: A brief tour of Europe's parties
 [Abstract](#Abstract)
 
 ## Abstract
-Who is the Italian Donald Trump? Is the Democratic Party similar to German CDU?
-
-It can be difficult, moving from one country to another, keeping track of the parties' issues. It would be a huge help if you have a comparison between politicians and parties with respect to different countries. In this project we want to address these and other questions related to political topics.
+Europe in 2019.  
+It appears that right-wing populists are on the rise in many countries. But can you really compare these parties between countries? What do they have in common? How do they differ?
+What is the general political orientation on controversial themes in different countries and what is the position of the leading politicians on these themes?
+Is the 'Alternative for Germany' really similar to 'Lega Nord'?
+In this project we want to address these and other questions related to political topics.
 
 The main goal is to examine how much the political scenario in one topic changes from one country to another. Taking into account the quotes and the party of politicians, we will discover the hottest topics in each country and compare them to the ones of other countries.
 
