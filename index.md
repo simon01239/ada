@@ -42,4 +42,4 @@ Topic Extraction: We follow the approach of Top2Vec. So we use UMAP for dimensio
 Sentiment Analysis: we use TextBlob to extract the polarity and subjectivity of quotes.
 
 ## Next
-[Bild](/assets/img/hello_world.jpeg)
+![Bild](/assets/img/hello_world.jpeg)
