@@ -6,7 +6,7 @@ subtitle: A brief tour of europe's parties
 ## Index:
 [Abstract](#1-Abstract)
 
-## Abstract
+## 1. Abstract
 Who is the Italian Donald Trump? Is the Democratic Party similar to German CDU?
 
 It can be difficult, moving from one country to another, keeping track of the parties' issues. It would be a huge help if you have a comparison between politicians and parties with respect to different countries. In this project we want to address these and other questions related to political topics.
