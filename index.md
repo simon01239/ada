@@ -1,10 +1,10 @@
 ---
 layout: home
 title: How much does the political scenario change from one country to another?
-subtitle: A brief tour of europe's parties
+subtitle: A brief tour of Europe's parties
 ---
 ## Index:
-[Abstract](#1-Abstract)
+[Abstract](#Abstract)
 
 ## 1. Abstract
 Who is the Italian Donald Trump? Is the Democratic Party similar to German CDU?
