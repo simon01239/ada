@@ -11,9 +11,9 @@ Europe in 2019.
 It appears that right-wing populists are on the rise in many countries. But can you really compare these parties between countries? What do they have in common? How do they differ?
 What is the general political orientation on controversial themes in different countries and what is the position of the leading politicians on these themes?
 Is the 'Alternative for Germany' really similar to 'Lega Nord'?
-In this project we want to address these and other questions related to political topics.
+In this project we want to address these and other questions related to political topics. We take a deeper look for the European countries France, Germany, Spain, Italy and Poland.
 
-The main goal is to examine how much the political scenario in one topic changes from one country to another. Taking into account the quotes and the party of politicians, we will discover the hottest topics in each country and compare them to the ones of other countries.
+The main goal is to examine how much the political scenario in one topic changes from one of these countries to another. Taking into account the quotes and the party of politicians, we will discover the hottest topics in each country and compare them to the ones of other countries.
 
 Besides, we will investigate how politicians from different countries position themselves over the same topics, especially if they come from the same political background (i.e. right parties, left parties), by analyzing the similarities and the differences.
 
