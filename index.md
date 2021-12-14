@@ -7,7 +7,7 @@ subtitle: A brief tour of Europe's parties
 [Abstract](#Abstract)
 
 ## Abstract
-Europe in 2019.  
+Europe, 2019.  
 It appears that right-wing populists are on the rise in many countries. But can you really compare these parties between countries? What do they have in common? How do they differ?
 What is the general political orientation on controversial themes in different countries and what is the position of the leading politicians on these themes?
 Is the 'Alternative for Germany' really similar to 'Lega Nord'?
@@ -42,6 +42,18 @@ Embedding: we currently use Doc2Vec, which learns a joint embedding encoding bot
 Topic Extraction: We follow the approach of Top2Vec. So we use UMAP for dimensionality reduction of the embedding vectors and HDBSCAN for the final clustering.
 
 Sentiment Analysis: we use TextBlob to extract the polarity and subjectivity of quotes.
+
+## heading
+We decided to examine the situation in the countries in the following topics: 
+- Immigration
+- European Union and Brexit
+- Discriminations (racism, based on gender, homophobia)
+- Israeli-Palestinian conflict
+- Russia and Putin
+- Terrorism
+- COVID-19
+
+### Immigration
 
 ## Next
 ![Bild](/assets/img/test.png)
