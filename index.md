@@ -86,7 +86,7 @@ We can see, indeed, that there are eminent European politicians:
 
 How was the distribution of the number of quotes per country?:  
 
-![Brexit Distribution per country](/assets/img/Brexit_Distribution_per_country.png) 
+![Brexit Distribution per country](/assets/img/Project_graphics/Brexit_Distribution_per_country.png) 
 
 As we will see, the peaks correspond to important events of Brexit, the withdrawal of the United Kingdom from the European Union.
 
