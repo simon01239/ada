@@ -55,5 +55,7 @@ We decided to examine the situation in the countries in the following topics:
 
 ### Immigration
 ![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_allcountries.png)
-## Next
-![Bild](/assets/img/test.png)
+![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_percountry.png)
+![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_political alignments.png)
+![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_political alignments_percountry.png)
+
