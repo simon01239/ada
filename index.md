@@ -127,7 +127,7 @@ European leaders agreed to the request for a three-month extension, while UK law
 ### Discrimination
 ![Top Speakers Brexit](/assets/img/Project_graphics/Discrimination_Distribution_percounry.png)  
 
-First, we can observe a huge peak in January 2015, corresponding to the only peak in France.
+First, we can observe a huge peak in France January 2015.
 In addition, there are a few more peaks, more accentuated in the countries distributions.
 
 #### <center>January 2015</center>
