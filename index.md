@@ -58,19 +58,32 @@ Let's take a look into one of the most controvers discussed topic in the Europea
 
 ![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_allcountries.png)
 
-You can see 2 clear peaks. It seems that immigration made headlines in September 2015 and June 2018. What happened in these months? To get an answer to this question, let's look at the distribution in the respective countries.
+You can see 2 clear peaks. It seems that immigration made headlines in September 2015 and June 2018. What happened in these months? To get an answer to this question, let's look at the distribution w.r.t each country.
 
 ![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_percountry.png)
 
-During this year, the main route shifted from the dangerous Mediterranean crossing from Libya to Italy, to what would prove to be an even deadlier crossing from Turkey to Greek islands like Lesvos.
+The peaks distinguish quite a lot in each country! 
+Let's start with the situation in **2015**. Do you remember the refugee routes?
+In 2015, the main route shifted from the dangerous Mediterranean, crossing from Libya to Italy, to another one crossing from Turkey to Greek islands like Lesvos, what would prove to be even deadlier.
 This explains why the peak is completely absent in Italy's point of view and, in the other hand, is quite marked in Germany or Poland.
-Over 75 per cent of those arriving in Europe had fled conflict and persecution in Syria, Afghanistan or Iraq.
+Over 75% of those arriving in Europe had fled conflict and persecution in Syria, Afghanistan or Iraq.
 
 The peak on this month can be sadly explained by a drammatic event that took place on 2 September 2015.
 On this day, <a href='https://en.wikipedia.org/wiki/Death_of_Alan_Kurdi'>Alan Kurdi</a>, a three-years-old Syrian boy, lost his life trying to reach Europe from Turkey.
 The photo of his body laying on a beach in Turkey moved millions worldwide.
 
 By the time Aylan's body washed ashore, more than 300,000 people had risked their lives to reach Europe. Over 2,600 had perished in the attempt.
+
+#### <center>June 2018 and Matteo Salvini</center>
+<center><img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/0260/production/_102080600_migrant_ship_with_spain_640_v4-nc.png
+" width=600></center>
+
+At first glance, the peak in **June 2018** is clearly caused by Italy and, most likely, by the most popular speaker in the immigration topic, Matteo Salvini. However, this huge crest could be quite weird by just looking at <a href='https://www.youtrend.it/2021/02/15/sbarchi-e-immigrazione-in-italia-il-punto-della-situazione/'>data.</a> The number of migrants in 2018 is quite low if compared to the figures of the previous years.
+
+However, something happened in Italian politics during these days. Indeed, <a href='https://en.wikipedia.org/wiki/Matteo_Salvini'>Matteo Salvini</a>, leader of the far-right party "Lega Nord", was sworn in as Deputy Prime Minister and Minister of the Interior on 1 June 2018. He immediately stated that his main aim was to drastically reduce the number of illegal immigrants to Italy.  
+
+On 10 June 2018, Salvini announced the closure of Italian ports. The vessel <b>Aquarius</b>, which carried more than 600 migrants, was refused a port of disembarkation by the Italian authorities. It was accepted by Spanish authorities, and it finally arrived at the Port of Valencia on 17 June 2018.
+
 
 ![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_political alignments.png)
 ![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_political alignments_percountry.png)
