@@ -54,6 +54,6 @@ We decided to examine the situation in the countries in the following topics:
 - COVID-19
 
 ### Immigration
-
+![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_allcountries.png)
 ## Next
 ![Bild](/assets/img/test.png)
