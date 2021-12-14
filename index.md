@@ -54,8 +54,24 @@ We decided to examine the situation in the countries in the following topics:
 - COVID-19
 
 ### Immigration
+Let's take a look into one of the most controvers discussed topic in the European countries, the immigration topic. How did it develop over time?
+
 ![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_allcountries.png)
+
+You can see 2 clear peaks. It seems that immigration made headlines in September 2015 and June 2018. What happened in these months? To get an answer to this question, let's look at the distribution in the respective countries.
+
 ![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_percountry.png)
+
+During this year, the main route shifted from the dangerous Mediterranean crossing from Libya to Italy, to what would prove to be an even deadlier crossing from Turkey to Greek islands like Lesvos.
+This explains why the peak is completely absent in Italy's point of view and, in the other hand, is quite marked in Germany or Poland.
+Over 75 per cent of those arriving in Europe had fled conflict and persecution in Syria, Afghanistan or Iraq.
+
+The peak on this month can be sadly explained by a drammatic event that took place on 2 September 2015.
+On this day, <a href='https://en.wikipedia.org/wiki/Death_of_Alan_Kurdi'>Alan Kurdi</a>, a three-years-old Syrian boy, lost his life trying to reach Europe from Turkey.
+The photo of his body laying on a beach in Turkey moved millions worldwide.
+
+By the time Aylan's body washed ashore, more than 300,000 people had risked their lives to reach Europe. Over 2,600 had perished in the attempt.
+
 ![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_political alignments.png)
 ![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_political alignments_percountry.png)
 
