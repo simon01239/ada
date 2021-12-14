@@ -198,7 +198,7 @@ On 23 February 2020, European foreign policy chief, the Spanish Josep Borrell, h
 He said the European Union would not recognize any changes to Israel’s pre-1967 borders and urged Jerusalem to reconsider its plan.  
 He also appears in our top speakers ranking for this topic:
 
-![Discrimination Distribution per country](/assets/img/Project_graphics/Israeli_Top_Speakers.png )   
+![Discrimination Distribution per country](/assets/img/Project_graphics/Israeli_Top_Speakers.png)   
 
 References:
 - <a href='https://www.bbc.com/news/world-us-canada-42259443'>Jerusalem is Israel's capital, says Donald Trump</a>
