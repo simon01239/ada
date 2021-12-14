@@ -44,7 +44,7 @@ Topic Extraction: We follow the approach of Top2Vec. So we use UMAP for dimensio
 Sentiment Analysis: we use TextBlob to extract the polarity and subjectivity of quotes.
 
 ## Topic selection
-We decided to examine the situation in the countries in the following topics: 
+We decided to examine the situation of each country in the following topics: 
 - Immigration
 - European Union and Brexit
 - Discriminations (racism, based on gender, homophobia)
@@ -124,3 +124,55 @@ In the run-up to the scheduled date for the UK’s departure at Halloween, Boris
 
 European leaders agreed to the request for a three-month extension, while UK lawmakers finally agreed to an early general election in December to try to clear the path ahead.
 
+### Discrimination
+![Top Speakers Brexit](/assets/img/Project_graphics/Discrimination_Distribution_percounry.png)  
+
+First, we can observe a huge peak in January 2015, corresponding to the only peak in France.
+In addition, there are a few more peaks, more accentuated in the countries distributions.
+
+#### <center>January 2015</center>
+The most important peak is linked to the Islamic terrorism attacks of the same month in France.
+
+It is also an important event for discriminations. The former President of France, Hollande, affirmed that radical Islam had fed off contradictions, poverty, inequality and conflict, and that "it is Muslims who are the first victims of fanaticism, fundamentalism and intolerance".
+
+He also added that "French Muslims have the same rights as all other French [...]. We have the obligation to protect them. [...] Anti-Muslim and anti-Semitic acts have to be condemned and punished."
+
+#### <center>July 2016</center>
+As in the last case, the peak is mainly because of Donald Tusk's statements on Nice terrorism attack. In fact, he affirmed that the "subjects of the attack were people celebrating liberty, equality and fraternity".
+
+#### <center>March 2017</center>
+This peak can be linked to the third top speaker: <a href='https://en.wikipedia.org/wiki/Thomas_Bach'>Thomas Bach</a>, President of the International Olympic Committee.
+In fact, the International Olympic Committee (IOC) Executive Board on this day approved a major review project regarding gender equality in the Olympic Movement.
+
+#### <center>October 2017</center>
+This time the main term is "liberty". In fact, in October 2017, the <b>Catalan independence referendum</b> took place.
+
+#### <center>February 2018</center>
+On 3 February 2018, in the city of Macerata, Marche, 28-year-old local Luca Traini seriously wounded, in a drive-by shooting, six African migrants.
+After the attack, <b>Traini</b> reportedly had an Italian flag draped on his shoulders and raised his arm in a Fascist salute.
+
+Traini said the attack was revenge for the murder of Pamela Mastropietro, an 18-year-old local girl whose dismembered body had been found a few days earlier, stuffed into two suitcases and dumped in the countryside. For this, a 29-year-old Nigerian national and failed asylum seeker, Innocent Oseghale, had been arrested and charged.
+
+#### <center>April 2018</center>
+On 17 April 2018, <b>Adam Armoush</b>, a 21-year-old Israeli Arab living in Berlin and his German friend of Moroccan origin went through a street in Prenzlauer Berg taking selfies while wearing kippahs.
+
+At one point, an argument with three Arab-speaking young men started, which was followed by a violent attack. Armoush managed to document the violence with his cell phone and later allowed the video to be shared on Facebook, from where the video went viral.
+
+The video shows the main attacker beat Armoush repeatedly with his belt. During the onslaught, the attacker shouted the word "Yahudi", the Arabic word for Jew, before one his companions intervened and dragged him away.
+
+References:
+- <a href='https://www.bbc.com/news/world-europe-30829733'>France to protect all religions, vows Francois Hollande</a>
+- <a href='https://olympics.com/ioc/news/ioc-launches-bold-initiative-on-gender-equality'>IOC launches bold initiative on gender equality</a>
+- <a href='https://en.wikipedia.org/wiki/Macerata_shooting'>Macerata shooting</a>
+- <a href='https://en.wikipedia.org/wiki/2018_Berlin_anti-semitic_attack'>2018 Berlin anti-semitic attack</a>
+
+### Israeli - Palestinian conflict
+
+
+### Climate change
+
+
+### Russia
+
+
+### Coronavirus
