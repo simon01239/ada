@@ -58,11 +58,12 @@ Let's take a look into one of the most controvers discussed topic in the Europea
 
 ![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_allcountries.png)
 
-You can see 2 clear peaks. It seems that immigration made headlines in September 2015 and June 2018. What happened in these months? To get an answer to this question, let's look at the distribution w.r.t each country.
+First, you may have noticed that on average there are fewer citations in the colder months. The reason for this is that migrants prefer to take advantage of better weather and therefore their number rises in warmer months.
+Second, you can see 2 clear peaks. It seems that immigration made headlines in September 2015 and June 2018. What happened in these months? To get an answer to this question, let's look at the distribution w.r.t each country. 
+The peaks distinguish quite a lot in each country:
 
 ![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_percountry.png)
 
-The peaks distinguish quite a lot in each country! 
 
 ##### <center>September 2015</center>  
 
