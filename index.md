@@ -109,7 +109,7 @@ In the run-up to the scheduled date for the UK’s departure at Halloween, Boris
 European leaders agreed to the request for a three-month extension, while UK lawmakers finally agreed to an early general election in December to try to clear the path ahead.
 
 ### Discrimination
-![Discrimination Distribution per country](/assets/img/Project_graphics/Discrimination_Distribution_percounry.png)  
+![Discrimination Distribution per country](/assets/img/Project_graphics/Discrimination_Distribution_percountry.png)  
 
 First, we can observe a huge peak in France January 2015.
 In addition, there are a few more peaks, more accentuated in the countries distributions.
