@@ -63,7 +63,10 @@ You can see 2 clear peaks. It seems that immigration made headlines in September
 ![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_percountry.png)
 
 The peaks distinguish quite a lot in each country! 
-Let's start with the situation in **2015**. Do you remember the refugee routes?
+
+##### <center>September 2015</center>  
+
+Let's start with the situation in **2015**. Do you remember the refugee routes?  
 In 2015, the main route shifted from the dangerous Mediterranean, crossing from Libya to Italy, to another one crossing from Turkey to Greek islands like Lesvos, what would prove to be even deadlier.
 This explains why the peak is completely absent in Italy's point of view and, in the other hand, is quite marked in Germany or Poland.
 Over 75% of those arriving in Europe had fled conflict and persecution in Syria, Afghanistan or Iraq.
@@ -74,7 +77,8 @@ The photo of his body laying on a beach in Turkey moved millions worldwide.
 
 By the time Aylan's body washed ashore, more than 300,000 people had risked their lives to reach Europe. Over 2,600 had perished in the attempt.
 
-#### <center>June 2018 and Matteo Salvini</center>
+##### <center>June 2018 and Matteo Salvini</center>  
+
 <center><img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/0260/production/_102080600_migrant_ship_with_spain_640_v4-nc.png" width=600></center>  
 
 At first glance, the peak in **June 2018** is clearly caused by Italy and, most likely, by the most popular speaker in the immigration topic, Matteo Salvini. However, this huge crest could be quite weird by just looking at <a href='https://www.youtrend.it/2021/02/15/sbarchi-e-immigrazione-in-italia-il-punto-della-situazione/'>data.</a> The number of migrants in 2018 is quite low if compared to the figures of the previous years.
