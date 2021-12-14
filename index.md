@@ -85,9 +85,8 @@ At first glance, the peak in **June 2018** is clearly caused by Italy and, most 
 
 However, something happened in Italian politics during these days. Indeed, <a href='https://en.wikipedia.org/wiki/Matteo_Salvini'>Matteo Salvini</a>, leader of the far-right party "Lega Nord", was sworn in as Deputy Prime Minister and Minister of the Interior on 1 June 2018. He immediately stated that his main aim was to drastically reduce the number of illegal immigrants to Italy.  
 
-On 10 June 2018, Salvini announced the closure of Italian ports. The vessel <b>Aquarius</b>, which carried more than 600 migrants, was refused a port of disembarkation by the Italian authorities. It was accepted by Spanish authorities, and it finally arrived at the Port of Valencia on 17 June 2018.  
+On 10 June 2018, **Salvini**, who is also the person with the most quotes in immigration (see plot below), announced the closure of Italian ports. The vessel <b>Aquarius</b>, which carried more than 600 migrants, was refused a port of disembarkation by the Italian authorities. It was accepted by Spanish authorities, and it finally arrived at the Port of Valencia on 17 June 2018.  
 
 ![Top Speakers](/assets/img/Project_graphics/Immigration_Top_Speakers.png)  
 
-Here you can see that the most important speaker was Matteo Salvini for the immigration topic in 2015 to 2019.
 
