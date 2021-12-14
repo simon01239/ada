@@ -167,7 +167,44 @@ References:
 - <a href='https://en.wikipedia.org/wiki/2018_Berlin_anti-semitic_attack'>2018 Berlin anti-semitic attack</a>
 
 ### Israeli - Palestinian conflict
+![Discrimination Distribution per country](/assets/img/Project_graphics/Israeli_Distribution_percountry.png)    
 
+First, we can observe that this topic was mainly discussed in the month of December 2017.
+
+### <center>December 2017</center>
+<center><img src='https://d2v9ipibika81v.cloudfront.net/uploads/sites/67/Trump-Jerusalem.jpg' width=600></center>
+
+This peak was caused by something that, actually, happened in the USA: President Donald Trump has announced that the US recognises Jerusalem as Israel's capital, overturning decades of official US policy.
+
+The fate of the ancient city is one of the thorniest issues between Israel and the Palestinians.
+Israel called Mr Trump's move "historic" but there has been sharp international criticism.
+Palestinian President Mahmoud Abbas called Mr Trump's announcement "deplorable", saying the US could no longer be a peace broker.
+
+The decision to recognise Jerusalem as Israel's capital puts the US at odds with the rest of the international community's view on Jerusalem's status.
+
+### <center>February 2018</center>
+<center><img src='https://ichef.bbci.co.uk/news/976/cpsprodpb/522A/production/_100243012_gettyimages-915772588.jpg' width=600></center>
+
+This time, the peak is more about one of the two countries: Israel.
+On 6 February 2018, the President of Poland signed an amendment to the Law on the Institute of National Remembrance, which makes it a crime to publicly claim that Poland had any responsibility for or complicity in the Holocaust.
+
+The law met with widespread international criticism, as it was seen as an infringement on freedom of expression and on academic freedom, and as a barrier to open discussion on Polish collaborationism, in what has been described as "the biggest diplomatic crisis in Poland's recent history".
+
+### <center>February 2020</center>
+<center><img src='https://static.timesofisrael.com/www/uploads/2020/02/AP_20031473007478-640x400.jpg' width=600></center>
+
+On 23 February 2020, European foreign policy chief, the Spanish Josep Borrell, has criticized Israel’s announced plans to build a new neighborhood in East Jerusalem and expand another, warning such action “would be deeply detrimental to a two-state-solution.”
+
+He said the European Union would not recognize any changes to Israel’s pre-1967 borders and urged Jerusalem to reconsider its plan.  
+He also appears in our top speakers ranking for this topic:
+
+![Discrimination Distribution per country](/assets/img/Project_graphics/Israeli_Top_Speakers.png )   
+
+References:
+- <a href='https://www.bbc.com/news/world-us-canada-42259443'>Jerusalem is Israel's capital, says Donald Trump</a>
+- <a href='https://www.amnesty.org/en/documents/eur37/7858/2018/en/'>Poland: The Law on the Institute of National Remembrance contravenes the right to freedom of expression</a>
+- <a href='https://en.wikipedia.org/wiki/Amendment_to_the_Act_on_the_Institute_of_National_Remembrance'>Amendment to the Act on the Institute of National Remembrance</a>
+- <a href='https://www.timesofisrael.com/eu-says-netanyahu-plans-for-east-jerusalem-construction-deeply-detrimental/'>EU calls Netanyahu’s plans for East Jerusalem construction ‘deeply detrimental’</a>
 
 ### Climate change
 
