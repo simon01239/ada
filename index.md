@@ -10,8 +10,8 @@ subtitle: A brief tour of Europe's parties
 Europe, 2019.  
 It appears that right-wing populists are on the rise in many countries. But can you really compare these parties between countries? What do they have in common? How do they differ?
 What is the general political orientation on controversial themes in different countries and what is the position of the leading politicians on these themes?
-Is the 'Alternative for Germany' really similar to 'Lega Nord'?
-In this project we want to address these and other questions related to political topics. We take a deeper look for the European countries France, Germany, Spain, Italy and Poland.
+Is the 'Alternative for Germany' similar to 'Lega Nord'?
+in this project we will take a short journey through the different political topics. For this purpose, we will focus on the larger EU member states France, Germany, Spain, Italy and Poland.  
 
 The main goal is to examine how much the political scenario in one topic changes from one of these countries to another. Taking into account the quotes and the party of politicians, we will discover the hottest topics in each country and compare them to the ones of other countries.
 
@@ -19,7 +19,7 @@ Besides, we will investigate how politicians from different countries position t
 
 ## Research questions
 1. How much does the political scenario in some hot topics (migration, climate change, EU, gender discrimination, drug legalization, russian politician) change from one country to another? Why is that?
-2. Considering rigth-hand parties (AfD(Germany), Lega Nord(Italy), Front National(France), PiS(Poland), UKIP(UK)), how much do their opinions differ compared to a party with similar political orientation from another country?
+2. Considering rigth-hand parties (AfD(Germany), Lega Nord(Italy), Front National(France), PiS(Poland)), how much do their opinions differ compared to a party with similar political orientation from another country?
 3. How do the important politicans of these parties positioning themselves over topics (migration, climate change, EU, gender discrimination, drug legalization, russian politician)?
 
 
@@ -43,7 +43,7 @@ Topic Extraction: We follow the approach of Top2Vec. So we use UMAP for dimensio
 
 Sentiment Analysis: we use TextBlob to extract the polarity and subjectivity of quotes.
 
-## heading
+## Topic selection
 We decided to examine the situation in the countries in the following topics: 
 - Immigration
 - European Union and Brexit
@@ -90,4 +90,37 @@ On 10 June 2018, **Salvini**, who is also the person with the most quotes in imm
 
 ![Top Speakers](/assets/img/Project_graphics/Immigration_Top_Speakers.png)  
 
+### European Union and Brexit  
+This time we will start our analysis from the most popular speakers:  
+![Top Speakers Brexit](/assets/img/Project_graphics/Brexit_Top_Speakers.png)  
+
+We can see, indeed, that there are eminent European politicians:
+- Donald Tusk (President of the European Council from 2014 to 2019)
+- Michel Barnier (Former European Commissioner for Cohesion and Reforms)
+- Pierre Moscovici (Former European Commissioner for Economic and Financial Affairs, Taxation and Customs).
+- Ursula von der Leyen (President of the European Commission)  
+
+How was the distribution of the number of quotes per country?:  
+
+![Top Speakers Brexit](/assets/img/Brexit_Distribution_per_country.png)  
+
+As we will see, the peaks correspond to important events of Brexit, the withdrawal of the United Kingdom from the European Union.
+
+#### <center>March 2017</center>
+<center><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Prime_Minister%E2%80%99s_letter_to_Donald_Tusk_triggering_Article_50.pdf/page1-390px-Prime_Minister%E2%80%99s_letter_to_Donald_Tusk_triggering_Article_50.pdf.jpg' width=300></center>
+
+On 29 March 2017, the United Kingdom invoked Article 50 of the Treaty on European Union which began the member state's withdrawal from the European Union.
+
+In compliance with the TEU, the UK gave formal notice to the European Council of its intention to withdraw from the EU to allow withdrawal negotiations to begin.
+
+#### <center>March 2019</center>
+
+The UK had long been expected to leave the European Union at 11pm on 29 March 2019.  However, following a House of Commons vote on 14 March 2019, the Government sought permission from the EU to extend Article 50 and agree a later Brexit date.
+
+On 20 March 2019 the Prime Minister, Theresa May, wrote to European Council President Donald Tusk, asking to extend Article 50 until 30 June 2019.
+
+#### <center>October 2019</center>
+In the run-up to the scheduled date for the UK’s departure at Halloween, Boris Johnson’s government finally sealed a new exit deal with the EU – but a missed deadline in the British parliament forced the prime minister by law to seek another Brexit delay.
+
+European leaders agreed to the request for a three-month extension, while UK lawmakers finally agreed to an early general election in December to try to clear the path ahead.
 
