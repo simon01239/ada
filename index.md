@@ -74,6 +74,11 @@ On 10 June 2018, **Salvini**, who is also the person with the most quotes in imm
 
 ![Imigration Top Speakers](/assets/img/Project_graphics/Immigration_Top_Speakers.png)  
 
+References:
+- Wikipedia
+- https://www.unhcr.org/news/stories/2015/12/56ec1ebde/2015-year-europes-refugee-crisis.html
+- https://www.bbc.com/news/world-44510002
+
 ### European Union and Brexit  
 This time we will start our analysis from the most popular speakers:  
 ![Brexit Top Speakers](/assets/img/Project_graphics/Brexit_Top_Speakers.png)  
