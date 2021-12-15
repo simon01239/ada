@@ -10,7 +10,7 @@ https://ichef.bbci.co.uk/news/976/cpsprodpb/0260/production/_102080600_migrant_s
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Prime_Minister%E2%80%99s_letter_to_Donald_Tusk_triggering_Article_50.pdf/page1-390px-Prime_Minister%E2%80%99s_letter_to_Donald_Tusk_triggering_Article_50.pdf.jpg
 
 #### Israeli - December 2017
-https://d2v9ipibika81v.cloudfront.net/uploads/sites/67/Trump-Jerusalem.jpg
+https://live.staticflickr.com/4268/33997342614_331b473fc4_b.jpg
 
 #### Climate change - December 2015
 https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/04/24195/image1170x530cropped.jpg
