@@ -4,8 +4,8 @@ title: How much does the political scenario change from one country to another?
 subtitle: A brief tour of Europe's parties
 ---
 ## Index:
-[Abstract](##Abstract)
-[Research questions](## More precise: our research questions)
+[Abstract](## Abstract)  
+[Research questions](## Methods)
 
 ## Abstract
 Europe, 2019.  
@@ -330,3 +330,22 @@ All the previous explanations naturally suggest what we can see from this image:
 - in Italy, immigration is the most popular topic. This is because of the European migrant crisis and of the favourable geographical position of Italy.
 - Germany, as well as Spain, do not have remarkably more popular topics. Indeed, for example, both countries faced the problems of immigration and were target of terrorists.<br>One difference could be that, in Spain, the Russia topic was much less important than in Germany, probably because of the key roles of German politicians in the relation between EU and Russia.
 - in Poland, the European Union / Brexit and Russia topics were the most important ones. This could be explained by the key importance of the Polish politician Donald Tusk, Former President of the European Council, in these topics because of his role.
+
+## Research question 2
+Now we will examine how much the opinions of rigth hand parties differ compared to a party with similar political orientation from another country for our topics. Choosing right hand parties has the advantage because we are interested in showing distinctions between the parties, which seems easier with more extreme parties. 
+Let us first take a look which parties we will consider:  
+
+#### <center>Germany</center>  
+![Summary](/assets/img/Project_graphics/)  
+
+#### <center>France</center>
+![Summary](/assets/img/Project_graphics/)  
+
+#### <center>Italy</center>  
+![Summary](/assets/img/Project_graphics/)  
+
+#### <center>Poland</center>  
+![Summary](/assets/img/Project_graphics/)  
+
+
+
