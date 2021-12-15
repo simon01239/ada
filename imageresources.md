@@ -3,7 +3,7 @@
 #### Title image  
 - <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
-- <a href="https://de.freepik.com/vektoren/aquarell">Aquarell Vektor erstellt von Vectorium - de.freepik.com</a>
+- <a href="https://de.freepik.com/vektoren/aquarell">Aquarell Vektor created by Vectorium - de.freepik.com</a>
 
 #### June 2018 and Matteo Salvini
 <a href = "https://ichef.bbci.co.uk/news/976/cpsprodpb/0260/production/_102080600_migrant_ship_with_spain_640_v4-nc.png" /a>
