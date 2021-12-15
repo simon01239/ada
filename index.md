@@ -28,7 +28,7 @@ Besides, we will investigate how politicians from different countries position t
 
 {% include question.html in_text=true
   text="Test?"
-  image_url="assets/img/3245402894_9a4e7ef640_o.jpg"
+  image_url="/assets/img/Project_graphics/Immigration_Distribution_over_time_allcountries.png"
 %}
 
 ## Topic selection
