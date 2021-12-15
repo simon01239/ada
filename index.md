@@ -2,7 +2,7 @@
 layout: page
 title: How much does the political scenario change from one country to another?
 subtitle: A brief tour of Europe's parties  
-cover-img: "Colorful_Isolated_Europe_in_Watercolor.jpg "
+cover-img: "/assets/img/Colorful_Isolated_Europe_in_Watercolor.jpg "
 ---
 ## Index:
 [Abstract](##-Abstract)  
