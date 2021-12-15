@@ -2,7 +2,7 @@
 layout: page
 title: How much does the political scenario change from one country to another?
 subtitle: A brief tour of Europe's parties  
-cover img: "/assets/img/Project_graphics/Immigration_Distribution_over_time_allcountries.png"
+cover-img: "/assets/img/Project_graphics/Immigration_Distribution_over_time_allcountries.png"
 ---
 ## Index:
 [Abstract](##-Abstract)  
@@ -26,11 +26,6 @@ Besides, we will investigate how politicians from different countries position t
 
 
 ## Methods  
-
-{% include question.html in_text=true
-  text="Test?"
-  image_url="/assets/img/Project_graphics/Immigration_Distribution_over_time_allcountries.png"
-%}
 
 ## Topic selection
 We decided to examine the situation of each country in the following topics: 
