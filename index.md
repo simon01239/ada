@@ -24,8 +24,12 @@ Besides, we will investigate how politicians from different countries position t
 3. How do the important politicans of these parties positioning themselves over topics (migration, climate change, EU, gender discrimination, drug legalization, russian politician)?
 
 
-## Methods
+## Methods  
 
+{% include question.html in_text=true
+  text="Test?"
+  image_url="assets/img/3245402894_9a4e7ef640_o.jpg"
+%}
 
 ## Topic selection
 We decided to examine the situation of each country in the following topics: 
