@@ -19,6 +19,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - The dataset: "https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf"
+    - Images: "imageresources"
 
 # --- Logo --- #
 
