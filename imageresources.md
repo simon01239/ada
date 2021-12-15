@@ -6,7 +6,7 @@
 - <a href="https://de.freepik.com/vektoren/aquarell">Aquarell Vektor created by Vectorium - de.freepik.com</a>
 
 #### June 2018 and Matteo Salvini
-<a href="https://ichef.bbci.co.uk/news/976/cpsprodpb/0260/production/_102080600_migrant_ship_with_spain_640_v4-nc.png"> </a>
+<a href='https://ichef.bbci.co.uk/news/976/cpsprodpb/0260/production/_102080600_migrant_ship_with_spain_640_v4-nc.png'> June 2018 </a>
 
 #### EU - March 2017
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Prime_Minister%E2%80%99s_letter_to_Donald_Tusk_triggering_Article_50.pdf/page1-390px-Prime_Minister%E2%80%99s_letter_to_Donald_Tusk_triggering_Article_50.pdf.jpg"/a>
