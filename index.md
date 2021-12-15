@@ -161,7 +161,7 @@ References:
 First, we can observe that this topic was mainly discussed in the month of December 2017.
 
 #### <center>December 2017</center>
-<center><img src='https://d2v9ipibika81v.cloudfront.net/uploads/sites/67/Trump-Jerusalem.jpg' width=600></center>
+<center><img src='https://live.staticflickr.com/4268/33997342614_331b473fc4_b.jpg' width=600></center>
 
 This peak was caused by something that, actually, happened in the USA: President Donald Trump has announced that the US recognises Jerusalem as Israel's capital, overturning decades of official US policy.
 
