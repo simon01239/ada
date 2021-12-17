@@ -73,7 +73,6 @@ On 10 June 2018, **Salvini**, who is also the person with the most quotes in imm
 References:
 - <a href='https://www.unhcr.org/news/stories/2015/12/56ec1ebde/2015-year-europes-refugee-crisis.html'> Refugee crisis 2015</a>
 - <a href='https://www.bbc.com/news/world-44510002'> Aquarius in Valencia</a>  
-- 
 
 ### European Union and Brexit  
 This time we will start our analysis from the most popular speakers:  
@@ -363,11 +362,11 @@ References:
 
 We can see that there are positive peaks in all countries for December 2017. This is no surprise as we know from our previous analysis that the US recognised Jerusalem as Israel's capital at that point.
 
-#### <center>Climate change</center>
+#### <center>Other topics</center>  
+
+For the other topics there are no clear comparable events we can see in the plots. It is possible to see only rough trends as shown here as an example in the plot for climate change.
+
 ![ImmigrationQuotes](/assets/img/Project_graphics/climatechange_sentiment.png)
-
-For the other topics there are no clear comparable events we can see in the plots. It is possible to see only rough trends as shwon here as an example in the plot for climate change.
-
 
 ## How do important politicans of right-wing parties position themselves on different topics (immigration, climate change, EU, discrimination, covid, terrorism, russia, israeli palestenian conflict)?
 
