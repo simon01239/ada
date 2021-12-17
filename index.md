@@ -326,20 +326,23 @@ All the previous explanations naturally suggest what we can see from this image:
 - in Poland, the European Union / Brexit and Russia topics were the most important ones. This could be explained by the key importance of the Polish politician Donald Tusk, Former President of the European Council, in these topics because of his role.
 
 ## Research question 2
-Now we will examine how much the opinions of rigth hand parties differ compared to a party with similar political orientation from another country for our topics. Choosing right hand parties has the advantage because we are interested in showing distinctions between the parties, which seems easier with more extreme parties. 
+Now we will examine how much the opinions of rigth hand parties differ compared to a party with similar political orientation from another country for our topics. We chose right hand parties because we are interested in showing distinctions between the parties, which seems easier with more extreme parties. 
 Let us first take a look which parties we will consider:  
 
 #### <center>Germany</center>  
-![Summary](/assets/img/Project_graphics/)  
+![Summary](/assets/img/Project_graphics/parties_germany.png)  
 
 #### <center>France</center>
-![Summary](/assets/img/Project_graphics/)  
+![Summary](/assets/img/Project_graphics/parties_france.png)  
 
 #### <center>Italy</center>  
-![Summary](/assets/img/Project_graphics/)  
+![Summary](/assets/img/Project_graphics/parties_italy.png)  
 
 #### <center>Poland</center>  
-![Summary](/assets/img/Project_graphics/)  
+![Summary](/assets/img/Project_graphics/parties_poland.png)  
+
+#### <center>Spain</center>  
+![Summary](/assets/img/Project_graphics/parties_spain.png)  
 
 
 
