@@ -330,11 +330,12 @@ Now we will examine how much the opinions of rigth hand parties differ compared 
 Let us first take a look which parties we will consider:  
 
 <p float = "left">  
-<img src ="/assets/img/Project_graphics/parties_germany.png" width="100"/>  
-<img src="/assets/img/Project_graphics/parties_france.png" width="100" />  
-<img src="/assets/img/Project_graphics/parties_italy.png" width="100" />  
-<img src="/assets/img/Project_graphics/parties_poland.png" width="100" />
-<img src="/assets/img/Project_graphics/parties_spain.png" width="100" />  
+![Summary](/assets/img/Project_graphics/parties_germany.png)
+![Summary](/assets/img/Project_graphics/parties_france.png)
+![Summary](/assets/img/Project_graphics/parties_italy.png)
+![Summary](/assets/img/Project_graphics/parties_poland.png)
+![Summary](/assets/img/Project_graphics/parties_spain.png)
+
 </p>
 
 
