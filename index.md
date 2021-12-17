@@ -326,14 +326,26 @@ All the previous explanations naturally suggest what we can see from this image:
 - in Poland, the European Union / Brexit and Russia topics were the most important ones. This could be explained by the key importance of the Polish politician Donald Tusk, Former President of the European Council, in these topics because of his role.
 
 ## Research question 2
-Now we will examine how much the opinions of rigth hand parties differ compared to a party with similar political orientation from another country for our topics. We chose right hand parties because we are interested in showing distinctions between the parties, which seems easier with more extreme parties. 
-Let us first take a look which parties we will consider:  
+Now we will examine how much the opinions of a party from one country differ compared to a party from another country for our sepcific topics. 
+Let us first take a look which parties we will consider by plotting the parties for each country w.r.t the number of quotes:  
 
-
-
-![Germany](/assets/img/Project_graphics/parties_germany.png)![France](/assets/img/Project_graphics/parties_france.png) 
+![Germany](/assets/img/Project_graphics/parties_germany.png)
+![France](/assets/img/Project_graphics/parties_france.png) 
 ![Italy](/assets/img/Project_graphics/parties_italy.png) 
 ![Poland](/assets/img/Project_graphics/parties_poland.png) 
 ![Spain](/assets/img/Project_graphics/parties_spain.png)
 
+We choose the parties with the most quotations for each country. Hence we will consider the Christian Democratic Union (Germany), Democratic Party (Italy), Socialist Party (France), Civic Platform (Poland) and People's Party (Spain).
 
+#### Comparison per topic
+We will now investigate in detail the correlations between the sentiment of the politicians of the selected parties for each of the predefined topics.
+For each of these, we present the overall count of number of quotes per political party and within each
+political party how many are neutral, positive and negative. We will use Vader for Sentiment Analysis, because it showed a more non neutral distinction. 
+
+Additionally, we also show how the sentiment evolves in time in these countries and put them side by side to look
+for any correlations.
+
+#### <center>Immigration</center>
+![ImmigrationQuotes](/assets/img/Project_graphics/Immigration_distr_quotes.png)
+
+![Immigration sentiment](/assets/img/Project_graphics/immigration_sentiment.png)
