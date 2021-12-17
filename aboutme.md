@@ -4,7 +4,7 @@ title: About us
 subtitle: The Wrangling Guys
 ---
 
-Andreas Wohnig:
-Giovanni Monea:
-Alexis Rodriguez:
-Simon Martin:
+Andreas Wohnig: andreas@wohnig.de  
+Giovanni Monea: giovanni.monea@epfl.ch  
+Alexis Rodriguez: alexis.rodrigueznunez@epfl.ch  
+Simon Martin: simon.martin@t-online.de  
