@@ -355,8 +355,7 @@ for any correlations.
 Looking at the plot, we can notice that both Germany and France have some overlapping time when there is a high
 negative polarity corresponding to the month of January 2016.
 
-#### Explanation
-
+#### What happened in January 2016?
 During New Year's Eve celebrations in Cologne in 2015 many women were assaulted by young men "who appeared to be of Arab or North African origin",
 this caused a high wave of criticism against Germany’s large refugee population. Politicians in France, interestingly,
 also were heavily criticising what had occurred in Germany.  
