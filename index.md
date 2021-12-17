@@ -415,7 +415,8 @@ References:
 - <a href='https://www.washingtonpost.com/world/national-security/a-russian-bank-gave-marine-le-pens-party-a-loan-then-weird-things-began-happening/2018/12/27/960c7906-d320-11e8-a275-81c671a50422_story.html'> Russian bank gave le Pens a loan</a>
 
 
-## What can we conclude with all the results?
+## What can we conclude about it?
 Generally the same topics are relevant in the different countries. But their importance differ due to individual factors. These factors often depend the geogrpahical location of the country. As an example, immigration was the hottest topic in Italy, due to their closeness to North Africa.  
 There are only a few topics on which the different partys have a clear common opinion. But generally the trend is similar.
-The specific right wing politicans showed individual differences depending on their respective situation. But they indicated a common negative opinion on immigration (except the polish prime minister, but misleading quotes).
+The specific right wing politicans showed individual differences depending on their respective situation. But they indicated a common negative opinion on immigration (except the polish prime minister, but he had misleading quotes).
+For better and more reliable interpretations we would need more data.
