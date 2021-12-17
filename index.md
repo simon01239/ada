@@ -329,13 +329,6 @@ All the previous explanations naturally suggest what we can see from this image:
 Now we will examine how much the opinions of rigth hand parties differ compared to a party with similar political orientation from another country for our topics. We chose right hand parties because we are interested in showing distinctions between the parties, which seems easier with more extreme parties. 
 Let us first take a look which parties we will consider:  
 
-<p float = "left">  
-![Summary](/assets/img/Project_graphics/parties_germany.png)
-![Summary](/assets/img/Project_graphics/parties_france.png)
-![Summary](/assets/img/Project_graphics/parties_italy.png)
-![Summary](/assets/img/Project_graphics/parties_poland.png)
-![Summary](/assets/img/Project_graphics/parties_spain.png)
-
-</p>
+![Summary](/assets/img/Project_graphics/parties_germany.png) ![Summary](/assets/img/Project_graphics/parties_france.png) ![Summary](/assets/img/Project_graphics/parties_italy.png) ![Summary](/assets/img/Project_graphics/parties_poland.png) ![Summary](/assets/img/Project_graphics/parties_spain.png)
 
 
