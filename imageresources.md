@@ -25,3 +25,6 @@
 
 #### Terrorism - December 2016
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Terroranschlag-Berlin-Breitscheidplatz-2016_%282%29_%2831731061626%29_%28square_crop%29.jpg/1280px-Terroranschlag-<a href=Berlin-Breitscheidplatz-2016_%282%29_%2831731061626%29_%28square_crop%29.jpg">Christmas market</a>
+
+#### Research question 2 
+<a href="https://upload.wikimedia.org/wikipedia/commons/e/e7/K%C3%B6ln_nach_Silvestervorf%C3%A4llen_2015-16-4180.jpg"> Je suis charlie</a>
