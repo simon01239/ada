@@ -37,7 +37,7 @@ We decided to examine the situation of each country in the following topics:
 ### Immigration
 Let's start our journey by taking a look into one of the most controvers discussed topic in the European countries, the immigration theme. How did it develop over time?
 
-![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_allcountries.png)
+![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_allcountries.png =10x10)
 
 First, you may have noticed that on average there are fewer citations in the colder months. The reason for this is that migrants prefer to take advantage of better weather and therefore their number rises in warmer months.
 Second, you can see 2 clear peaks. It seems that immigration made headlines in September 2015 and June 2018. What happened in these months? To get an answer to this question, let's look at the distribution w.r.t each country. 
@@ -298,7 +298,7 @@ On 19 December 2016, an unsuccessful asylum seeker from Tunisia drove a stolen t
 
 The incident is the deadliest terrorist attack in Germany since an attack at Oktoberfest in Munich in 1980.
 
-#### August 2017<
+#### August 2017
 
 On the afternoon of 17 August 2017, 22-year-old Younes Abouyaaqoub drove a van into pedestrians on La Rambla in Barcelona, Catalonia, Spain killing 13 people and injuring at least 130 others, one of whom died 10 days later on 27 August. Abouyaaqoub fled the attack on foot, then killed another person in order to steal the victim's car to make his escape.
 
@@ -384,7 +384,8 @@ The top speakers for each party are:
 - Law and Justice: Mateusz Morawiecki
 - People's Party: Miguel Arias Cañete
 
-#### How do these right-wing politicians talk about the selected topics?
+#### How do these right-wing politicians talk about the selected topics?  
+
 
 ##### <center>Polarity of right-wing politicians in a radar plot</center>
 ![Polarity right politicans](/assets/img/Project_graphics/polarity_rightwing.png)
@@ -438,3 +439,6 @@ In general, we have a far greater amount of data for globally more known politic
 References:
 - <a href='https://www.dw.com/en/head-of-the-afd-frauke-petry-meets-with-russian-officials-in-moscow/a-37643188'> Petry meets russian officials</a>
 - <a href='https://www.washingtonpost.com/world/national-security/a-russian-bank-gave-marine-le-pens-party-a-loan-then-weird-things-began-happening/2018/12/27/960c7906-d320-11e8-a275-81c671a50422_story.html'> Russian bank gave le Pens a loan</a>
+
+
+## Summary:
