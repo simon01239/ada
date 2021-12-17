@@ -339,7 +339,7 @@ References:
 - <a href='https://www.france24.com/en/20161222-2016-year-europe-ongoing-migrant-crisis'> Migrant crisis in Europe</a>
 - <a href='https://www.nytimes.com/2017/01/11/world/europe/germany-migrants-asylum-seekers.html'> Asylum seekers in Germany</a>
 
-#### <center>Israeli-palestinian</center>
+#### <center>Israeli-Palestinian</center>
 ![ImmigrationQuotes](/assets/img/Project_graphics/Israeli_sentiment.png)
 
 We can see that there are positive peaks in all countries for December 2017. This can be attributed to the US recognised Jerusalem as Israel's capital as we know from our previous analysis. All right wing parties show a positive common opinion on these agreements.
