@@ -340,7 +340,7 @@ Spain | &nbsp;
 We choose the parties with the most quotations for each country. Hence we will consider the Christian Democratic Union (Germany), Democratic Party (Italy), Socialist Party (France), Civic Platform (Poland) and People's Party (Spain).
 
 #### Comparison per topic
-We will now investigate in detail the correlations between the sentiment of the politicians of the selected parties for each of the predefined topics.
+We will now investigate in detail the correlations between the sentiment of the politicians of the selected parties for some topics.
 For each of these, we present the overall count of number of quotes per political party and within each
 political party how many are neutral, positive and negative. We will use Vader for Sentiment Analysis, because it showed a more non neutral distinction. 
 
@@ -355,6 +355,8 @@ for any correlations.
 Looking at the plot, we can notice that both Germany and France have some overlapping time when there is a high
 negative polarity corresponding to the month of January 2016.
 
+
+
 #### What happened in January 2016?
 During New Year's Eve celebrations in Cologne in 2015 many women were assaulted by young men "who appeared to be of Arab or North African origin",
 this caused a high wave of criticism against Germany’s large refugee population. Politicians in France, interestingly,
@@ -365,6 +367,16 @@ also were heavily criticising what had occurred in Germany.
 References:
 - <a href='https://www.france24.com/en/20161222-2016-year-europe-ongoing-migrant-crisis'> Migrant crisis in Europe</a>
 - <a href='https://www.nytimes.com/2017/01/11/world/europe/germany-migrants-asylum-seekers.html'> Asylum seekers in Germany</a>
+
+#### <center>Israeli-palestinian</center>
+![ImmigrationQuotes](/assets/img/Project_graphics/Israeli_sentiment.png)
+
+We can see that there are positive peaks in all countries for December 2017. This is no surprise as we know from our previous analysis that the US recognised Jerusalem as Israel's capital at that point.
+
+#### <center>Climate change</center>
+![ImmigrationQuotes](/assets/img/Project_graphics/climatechange_sentiment.png)
+
+For the other topics there are no clear comparable events we can see in the plots. But it is possible to see trends as in the plot for climate change.
 
 
 ## How do important politicans of right-wing parties position themselves on different topics (immigration, climate change, EU, discrimination, covid, terrorism, russia, israeli palestenian conflict)?
