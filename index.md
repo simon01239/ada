@@ -423,4 +423,23 @@ The top speakers for each party are:
 
 ![Polarity score distribution](/assets/img/Project_graphics/polarity_score_distribution.png)
 
-If we take a look at the distribution of quote and polarity and the total number of quotes, one can see that we often don't have enough quotes in a given topic for all of the considered right-wing politicians or the other way around. This is probably caused by the nature of the dataset, being from a US news paper and trying to analyse european politicians from smaller parties. But as you see below, for high-profile politicians like heads of government the situation gets better.
+If we take a look at the distribution of quote and polarity and the total number of quotes, one can see that we often don't have enough quotes in a given topic for all of the considered right-wing politicians or the other way around. This is probably caused by the nature of the dataset, being from a US news paper and trying to analyse european politicians from smaller parties. 
+
+### Compare right-wing politicans to the heads of the government in their countries
+Finally we want to compare the opinions of right-wing politicans to the opinion of the leading politican in that country. We consider Italy (Matteo Renzi), Germanya (Angela Merkel) and France(Emannuel Macron).
+
+![Polarity leading politicans](/assets/img/Project_graphics/polarity_headsgovernment.png)
+
+In all considered countrys right-wing politicians talk more negativly about immigration than the polticians in government positions in the same country.  
+
+Also the heads of government seem to be closer on the considered topics. This effect can also be seen in the distributions, e.g. on israeli_palestinian or terrorism. But we still would not draw any definit conclusions.
+
+
+Le Pen & Petry are closer to Russia than Macron and Merkel:  
+Marine Le Pen and Frauke Petry went to european right-wing meetings hosted by Russia and Le Pen even got funding for her party from a bank close to the russian governemnt.
+For Frauke Petry there is again just one positive quote, but for Marine Le Pen the situation more clear and also supported when one would look at individual quotes.
+In general, we have a far greater amount of data for globally more known politicians than the right-wing politicians.
+
+Ressources:
+- https://www.dw.com/en/head-of-the-afd-frauke-petry-meets-with-russian-officials-in-moscow/a-37643188
+- https://www.washingtonpost.com/world/national-security/a-russian-bank-gave-marine-le-pens-party-a-loan-then-weird-things-began-happening/2018/12/27/960c7906-d320-11e8-a275-81c671a50422_story.html
