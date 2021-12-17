@@ -22,8 +22,6 @@ Besides, we will investigate how politicians from different countries position t
 3. How do the important politicans of these parties positioning themselves over topics (migration, climate change, EU, gender discrimination, drug legalization, russian politician)?
 
 
-## Methods  
-
 ## Topic selection
 We decided to examine the situation of each country in the following topics: 
 - Immigration
@@ -37,7 +35,7 @@ We decided to examine the situation of each country in the following topics:
 ### Immigration
 Let's start our journey by taking a look into one of the most controvers discussed topic in the European countries, the immigration theme. How did it develop over time?
 
-![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_allcountries.png =10x10)
+![Topic Distribution over all countries](/assets/img/Project_graphics/Immigration_Distribution_over_time_allcountries.png)
 
 First, you may have noticed that on average there are fewer citations in the colder months. The reason for this is that migrants prefer to take advantage of better weather and therefore their number rises in warmer months.
 Second, you can see 2 clear peaks. It seems that immigration made headlines in September 2015 and June 2018. What happened in these months? To get an answer to this question, let's look at the distribution w.r.t each country. 
@@ -72,9 +70,9 @@ On 10 June 2018, **Salvini**, who is also the person with the most quotes in imm
 ![Imigration Top Speakers](/assets/img/Project_graphics/Immigration_Top_Speakers.png)  
 
 References:
-- Wikipedia
-- https://www.unhcr.org/news/stories/2015/12/56ec1ebde/2015-year-europes-refugee-crisis.html
-- https://www.bbc.com/news/world-44510002
+- <a href='https://www.unhcr.org/news/stories/2015/12/56ec1ebde/2015-year-europes-refugee-crisis.html'> Refugee crisis 2015</a>
+- <a href='https://www.bbc.com/news/world-44510002'> Aquarius in Valencia</a>  
+- 
 
 ### European Union and Brexit  
 This time we will start our analysis from the most popular speakers:  
