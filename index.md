@@ -6,20 +6,17 @@ cover-img: "/assets/img/Colorful_Isolated_Europe_in_Watercolor.jpg "
 ---
 
 ## Abstract
-Europe, 2019.  
-It appears that right-wing populists are on the rise in many countries. But can you really compare these parties between countries? What do they have in common? How do they differ?
-What is the general political orientation on controversial themes in different countries and what is the position of the leading politicians on these themes?
-Is the 'Alternative for Germany' similar to 'Lega Nord'?
-in this project we will take a short journey through the different political topics. For this purpose, we will focus on the larger EU member states France, Germany, Spain, Italy and Poland.  
+Europe, 2019.
+It appears that right-wing populists are on the rise in many countries. But can you really compare these parties between countries? What do they have in common? How do they differ? What is the general political orientation on controversial themes in different countries and what is the position of the leading politicians on these themes? Is the ‘Alternative for Germany’ similar to ‘Lega Nord’? in this project we will take a short journey through the different political topics. For this purpose, we will focus on some of the larger EU member states: France, Germany, Italy, Spain and Poland.
 
 The main goal is to examine how much the political scenario in one topic changes from one of these countries to another. Taking into account the quotes and the party of politicians, we will discover the hottest topics in each country and compare them to the ones of other countries.
 
 Besides, we will investigate how politicians from different countries position themselves over the same topics, especially if they come from the same political background (i.e. right parties, left parties), by analyzing the similarities and the differences.
 
 ## More precise: our research questions
-1. How much does the political scenario in some hot topics (migration, climate change, EU, gender discrimination, drug legalization, russian politician) change from one country to another? Why is that?
-2. Considering rigth-hand parties (AfD(Germany), Lega Nord(Italy), Front National(France), PiS(Poland)), how much do their opinions differ compared to a party with similar political orientation from another country?
-3. How do the important politicans of these parties positioning themselves over topics (migration, climate change, EU, gender discrimination, drug legalization, russian politician)?
+1. How much does the political scenario in some hot topics (for example immigration, climate change, EU, gender discrimination, Israeli-Palestinian conflict, Russia, terrorism and Covid-19) change from one country to another? Why is that?
+2. Considering the most important parties of these countries, how much do their opinions and interest differ over these topics?
+3. How do the important politicans of these parties position themselves over the same topics? What can we observe if we compare them with the leaders of the far right parties in the same countries?
 
 
 ## Topic selection
@@ -32,7 +29,7 @@ We decided to examine the situation of each country in the following topics:
 - COVID-19 
 - Terrorism  
 
-Due to a lack of data, we will not analyze the COVID-19 topic specifically. 
+Due to a lack of data, we will not analyze the COVID-19 and Rusia topic specifically for the first part.
 ### Immigration
 Let's start our journey by taking a look into one of the most controvers discussed topic in the European countries, the immigration theme. How did it develop over time?
 
@@ -228,21 +225,6 @@ References:
 - <a href='https://www.un.org/en/climatechange/paris-agreement'>The Paris Agreement</a>
 - <a href='https://en.wikipedia.org/wiki/United_States_withdrawal_from_the_Paris_Agreement'>United States withdrawal from the Paris Agreement</a>
 - <a href='https://errin.eu/tags/european-green-deal'>THE EUROPEAN GREEN DEAL</a>
-
-### Russia
-![Rusia Distribution per country](/assets/img/Project_graphics/Rusia_Distribution_percountry.png)  
-We can see that France, Italy and Germany, due to their similar positions.
-On the other hand, the topic was almost not touched by Spain and Poland, except for two months.
-
-The main peak was reached on February 2015. During this month, a dangerous escalation between Russia and Ukraine happened.
-However, the situation improved when on 12 February 2015 the leaders of Russia, Ukraine, France and Germany have reached a ceasefire deal after 17 hours of talks in Minsk, Belarus, on the Ukrainian conflict.
-
-Moreover, the second peak, in May 2017, is more marked in France: indeed, on 29 May 2017, French President Macron and Putin met in their fist face-to-face talk.
-
-References:
-- <a href='https://www.theguardian.com/world/2015/feb/12/ukraine-crisis-reports-emerge-of-agreement-in-minsk-talks'>Ukraine ceasefire agreed at Belarus talks</a>
-- <a href='https://www.bbc.com/news/world-europe-40082346'>France's Macron holds 'frank exchange' with Putin</a>
-
 
 ### Terrorism
 ![Terrorism Distribution per country](/assets/img/Project_graphics/Terrorism_Distribution_per_country.png)  
