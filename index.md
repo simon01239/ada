@@ -164,14 +164,14 @@ Palestinian President Mahmoud Abbas called Mr Trump's announcement "deplorable",
 
 The decision to recognise Jerusalem as Israel's capital puts the US at odds with the rest of the international community's view on Jerusalem's status.
 
-#### February 2018
+#### <center>February 2018</center>
 
 This time, the peak is more about one of the two countries: Israel.
 On 6 February 2018, the President of Poland signed an amendment to the Law on the Institute of National Remembrance, which makes it a crime to publicly claim that Poland had any responsibility for or complicity in the Holocaust.
 
 The law met with widespread international criticism, as it was seen as an infringement on freedom of expression and on academic freedom, and as a barrier to open discussion on Polish collaborationism, in what has been described as "the biggest diplomatic crisis in Poland's recent history".
 
-#### February 2020
+#### <center>February 2020</center>
 
 On 23 February 2020, European foreign policy chief, the Spanish Josep Borrell, has criticized Israel’s announced plans to build a new neighborhood in East Jerusalem and expand another, warning such action “would be deeply detrimental to a two-state-solution.”
 
@@ -206,7 +206,7 @@ The central objective of the Paris Agreement is to limit global warming to well 
 
 To achieve this long-term temperature goal, countries aim to reach global peaking of greenhouse gas emissions as soon as possible to achieve a climate neutral world by mid-century.
 
-#### June 2017
+#### <center>June 2017</center>
 
 On June 1, 2017, United States President Donald Trump announced that the U.S. would cease all participation in the 2015 Paris Agreement on climate change mitigation, contending that the agreement would "undermine" the U.S. economy, and put the U.S. "at a permanent disadvantage."
 
@@ -248,7 +248,7 @@ From 7 to 9 January 2015, terrorist attacks occurred across the Île-de-France r
 
 The most renowned is the first one: on 7 January, two gunmen attacked the headquarters of the satirical newspaper Charlie Hebdo, killing 12 people and wounding 12 others before escaping.
 
-#### November 2015
+#### <center>November 2015</center>
 
 On 13 November 2015, a series of coordinated Islamist terrorist attacks took place in Paris:
 - Three suicide bombers struck outside the Stade de France in Saint-Denis, during an international football match, after failing to gain entry to the stadium.
@@ -257,7 +257,7 @@ On 13 November 2015, a series of coordinated Islamist terrorist attacks took pla
 
 The attackers killed 130 people, including 90 at the Bataclan theatre. Another 416 people were injured, almost 100 critically.
 
-#### July 2016
+#### <center>July 2016</center>
 
 On the evening of 14 July 2016, a 19-tonne cargo truck was deliberately driven into crowds of people celebrating Bastille Day on the Promenade des Anglais in Nice, France, resulting in the deaths of 86 people and the injury of 458 others.
 
@@ -268,7 +268,7 @@ On 19 December 2016, an unsuccessful asylum seeker from Tunisia drove a stolen t
 
 The incident is the deadliest terrorist attack in Germany since an attack at Oktoberfest in Munich in 1980.
 
-#### August 2017
+#### <center>August 2017</center>
 
 On the afternoon of 17 August 2017, 22-year-old Younes Abouyaaqoub drove a van into pedestrians on La Rambla in Barcelona, Catalonia, Spain killing 13 people and injuring at least 130 others, one of whom died 10 days later on 27 August. Abouyaaqoub fled the attack on foot, then killed another person in order to steal the victim's car to make his escape.
 
