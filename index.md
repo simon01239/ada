@@ -6,17 +6,18 @@ cover-img: "/assets/img/Colorful_Isolated_Europe_in_Watercolor.jpg "
 ---
 
 ## Abstract
-Europe, 2019.
-It appears that right-wing populists are on the rise in many countries. But can you really compare these parties between countries? What do they have in common? How do they differ? What is the general political orientation on controversial themes in different countries and what is the position of the leading politicians on these themes? Is the ‘Alternative for Germany’ similar to ‘Lega Nord’? in this project we will take a short journey through the different political topics. For this purpose, we will focus on some of the larger EU member states: France, Germany, Italy, Spain and Poland.
+Europe, 2019. It appears that right-wing populists are on the rise in many countries. However, is it possible to compare these parties between countries? What do they have in common? How do they differ? What is the general political orientation on controversial themes in different countries? What is the position of the leading politicians on these themes? Is ‘Alternative for Germany’ similar to ‘Lega Nord’? 
 
-The main goal is to examine how much the political scenario in one topic changes from one of these countries to another. Taking into account the quotes and the party of politicians, we will discover the hottest topics in each country and compare them to the ones of other countries.
+Therefore, we will take a short journey through the different political topics. For this purpose, we will focus on some of the largest countries in the European Union: France, Germany, Italy, Spain and Poland.
 
-Besides, we will investigate how politicians from different countries position themselves over the same topics, especially if they come from the same political background (i.e. right parties, left parties), by analyzing the similarities and the differences.
+Taking into account the quotes and the party of politicians, we will examine and compare the hottest topics in each country.
+
+Besides, we will investigate how politicians from different countries position themselves over the same topics, especially if they come from the same political background (i.e. right parties, left parties).
 
 ## More precise: our research questions
 1. How much does the political scenario in some hot topics (for example immigration, climate change, EU, gender discrimination, Israeli-Palestinian conflict, Russia, terrorism and Covid-19) change from one country to another? Why is that?
 2. Considering the most important parties of these countries, how much do their opinions and interest differ over these topics?
-3. How do the important politicans of these parties position themselves over the same topics? What can we observe if we compare them with the leaders of the far right parties in the same countries?
+3. How do the important politicians of these parties position themselves over the same topics? What can we observe if we compare them with the leaders of the far-right parties in the same countries?
 
 
 ## Topic selection
