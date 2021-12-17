@@ -362,8 +362,8 @@ also were heavily criticising what had occurred in Germany.
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/K%C3%B6ln_nach_Silvestervorf%C3%A4llen_2015-16-4180.jpg" width=600></center>
 
 References:
-- https://www.france24.com/en/20161222-2016-year-europe-ongoing-migrant-crisis
-- https://www.nytimes.com/2017/01/11/world/europe/germany-migrants-asylum-seekers.html
+- <a href='https://www.france24.com/en/20161222-2016-year-europe-ongoing-migrant-crisis'> Migrant crisis in Europe</a>
+- <a href='https://www.nytimes.com/2017/01/11/world/europe/germany-migrants-asylum-seekers.html'> Asylum seekers in Germany</a>
 
 
 ## How do important politicans of right-wing parties position themselves on different topics (immigration, climate change, EU, discrimination, covid, terrorism, russia, israeli palestenian conflict)?
@@ -425,8 +425,8 @@ The top speakers for each party are:
 
 If we take a look at the distribution of quote and polarity and the total number of quotes, one can see that we often don't have enough quotes in a given topic for all of the considered right-wing politicians or the other way around. This is probably caused by the nature of the dataset, being from a US news paper and trying to analyse european politicians from smaller parties. 
 
-### Compare right-wing politicans to the heads of the government in their countries
-Finally we want to compare the opinions of right-wing politicans to the opinion of the leading politican in that country. We consider Italy (Matteo Renzi), Germanya (Angela Merkel) and France(Emannuel Macron).
+### Compare right-wing politicans to the heads of the government 
+Finally we want to compare the opinions of right-wing politicans to the opinion of the leading politican in that country. We consider Italy (Matteo Renzi), Germanya (Angela Merkel) and France (Emannuel Macron).
 
 ![Polarity leading politicans](/assets/img/Project_graphics/polarity_headsgovernment.png)
 
@@ -440,6 +440,6 @@ Marine Le Pen and Frauke Petry went to european right-wing meetings hosted by Ru
 For Frauke Petry there is again just one positive quote, but for Marine Le Pen the situation more clear and also supported when one would look at individual quotes.
 In general, we have a far greater amount of data for globally more known politicians than the right-wing politicians.
 
-Ressources:
-- https://www.dw.com/en/head-of-the-afd-frauke-petry-meets-with-russian-officials-in-moscow/a-37643188
-- https://www.washingtonpost.com/world/national-security/a-russian-bank-gave-marine-le-pens-party-a-loan-then-weird-things-began-happening/2018/12/27/960c7906-d320-11e8-a275-81c671a50422_story.html
+References:
+- <a href='https://www.dw.com/en/head-of-the-afd-frauke-petry-meets-with-russian-officials-in-moscow/a-37643188'> Petry meets russian officials</a>
+- <a href='https://www.washingtonpost.com/world/national-security/a-russian-bank-gave-marine-le-pens-party-a-loan-then-weird-things-began-happening/2018/12/27/960c7906-d320-11e8-a275-81c671a50422_story.html'> Russian bank gave le Pens a loan</a>
