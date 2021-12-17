@@ -324,6 +324,11 @@ All the previous explanations naturally suggest what we can see from this image:
 Now we will examine how much the opinions of a party from one country differ compared to a party from another country for our sepcific topics. 
 Let us first take a look which parties we will consider by plotting the parties for each country w.r.t the number of quotes:  
 
+Germany | France | Italy | Poland | Spain
+--- | --- | --- | --- | ---
+![Germany](/assets/img/Project_graphics/parties_germany.png) | ![France](/assets/img/Project_graphics/parties_france.png) | ![Italy](/assets/img/Project_graphics/parties_italy.png) | ![Poland](/assets/img/Project_graphics/parties_poland.png) | ![Spain](/assets/img/Project_graphics/parties_spain.png)
+
+
 ![Germany](/assets/img/Project_graphics/parties_germany.png)
 ![France](/assets/img/Project_graphics/parties_france.png) 
 ![Italy](/assets/img/Project_graphics/parties_italy.png) 
