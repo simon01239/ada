@@ -330,18 +330,12 @@ Germany | France
 
 Italy |Poland 
 --- | --- 
-![Italy](/assets/img/Project_graphics/parties_italy.png); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| ![Poland](/assets/img/Project_graphics/parties_poland.png) 
+![Italy](/assets/img/Project_graphics/parties_italy.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| ![Poland](/assets/img/Project_graphics/parties_poland.png) 
 
 Spain | &nbsp;
 --- | ---
 ![Spain](/assets/img/Project_graphics/parties_spain.png) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-
-![Germany](/assets/img/Project_graphics/parties_germany.png)
-![France](/assets/img/Project_graphics/parties_france.png) 
-![Italy](/assets/img/Project_graphics/parties_italy.png) 
-![Poland](/assets/img/Project_graphics/parties_poland.png) 
-![Spain](/assets/img/Project_graphics/parties_spain.png)
 
 We choose the parties with the most quotations for each country. Hence we will consider the Christian Democratic Union (Germany), Democratic Party (Italy), Socialist Party (France), Civic Platform (Poland) and People's Party (Spain).
 
