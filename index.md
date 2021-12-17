@@ -325,7 +325,7 @@ All the previous explanations naturally suggest what we can see from this image:
 - Germany, as well as Spain, do not have remarkably more popular topics. Indeed, for example, both countries faced the problems of immigration and were target of terrorists.<br>One difference could be that, in Spain, the Russia topic was much less important than in Germany, probably because of the key roles of German politicians in the relation between EU and Russia.
 - in Poland, the European Union / Brexit and Russia topics were the most important ones. This could be explained by the key importance of the Polish politician Donald Tusk, Former President of the European Council, in these topics because of his role.
 
-## Research question 2
+## How does the opinions of these parties differ on the selected topics?
 Now we will examine how much the opinions of a party from one country differ compared to a party from another country for our sepcific topics. 
 Let us first take a look which parties we will consider by plotting the parties for each country w.r.t the number of quotes:  
 
@@ -353,15 +353,74 @@ for any correlations.
 Looking at the plot, we can notice that both Germany and France have some overlapping time when there is a high
 negative polarity corresponding to the month of January 2016.
 
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/K%C3%B6ln_nach_Silvestervorf%C3%A4llen_2015-16-4180.jpg" width=600></center>
-
 #### Explanation
 
 During New Year's Eve celebrations in Cologne in 2015 many women were assaulted by young men "who appeared to be of Arab or North African origin",
 this caused a high wave of criticism against Germany’s large refugee population. Politicians in France, interestingly,
-also were heavily criticising what had occurred in Germany.
+also were heavily criticising what had occurred in Germany.  
+
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/K%C3%B6ln_nach_Silvestervorf%C3%A4llen_2015-16-4180.jpg" width=600></center>
 
 References:
-- Wikipedia
 - https://www.france24.com/en/20161222-2016-year-europe-ongoing-migrant-crisis
 - https://www.nytimes.com/2017/01/11/world/europe/germany-migrants-asylum-seekers.html
+
+
+## How do important politicans of right-wing parties position themselves on different topics (immigration, climate change, EU, discrimination, covid, terrorism, russia, israeli palestenian conflict)?
+
+#### Who are the most important right-wing parties?
+In order to answer this first question, we start by loading all quotes related to the list of topics, that we previously extracted during our analysis for Research Question 1. We decided to select the right-wing "popular politicians" using only the extracted quotes related to the list of topics, instead of using all quotes, since there might be politicians who were only quoted very often on topics, which are not examined in this analysis.
+
+We chose the most popular right-wing party of each country we wanted to analyse. Except for Spain, there does not seem to be any "relevant" spanish right-wing party. Only a few far-right partys, which do not appear in the dataset at all or in the case of "Vox" only with a handful of quotes. This is why we chose Spains's center-right party instead. These are the parties we will consider: Italy: Lega Nord, Germany: Alternative for Germany, France: National Rally, Poland: Law and Justice, Spain: People's Party.  
+In order to compare the prominent right-wing politicians, we look at the most quoted politicians of each party and choose the first one, since he/she is the publicly most present member of his/her party.
+
+![Topspeaker LN](/assets/img/Project_graphics/topspeaker_leganord.png)
+![Topspeaker AFD](/assets/img/Project_graphics/topspeaker_afd.png)
+![Topspeaker Nationalrally](/assets/img/Project_graphics/topspeaker_natinalrally.png)
+![Topspeaker LaJ](/assets/img/Project_graphics/topspeaker_lawandjustice.png)
+![Topspeaker PP](/assets/img/Project_graphics/topspeaker_peoplesparty.png)
+
+The top speakers for each party are:
+- Lega Nord: Matteo Salvini
+- Alternative for Germany: Frauke Petry
+- National Rally: Marine Le Pen
+- Law and Justice: Mateusz Morawiecki
+- People's Party: Miguel Arias Cañete
+
+#### How do these right-wing politicians talk about the selected topics?
+
+##### <center>Polarity of right-wing politicians in a radar plot</center>
+![Polarity right politicans](/assets/img/Project_graphics/polarity_rightwing.png)
+
+#### Interpretation: Differences between right-wing politicians from different european countries
+
+1. Miguel Arias Cañete
+
+    - was European Commissioner for Energy and Climate Action => highly postive on climate change makes sense  
+    - no quotes on most topics and one on europe and one related to discrimination (see diostributions per topics below) => doesnt tell us anything  
+      => not relevant, alternative politicians: There is no right-wing party in spain, only some very small far-right partys which almost don't have any quotes at all  
+    - other politicians which were quoted relativly often are prime ministers and entreprenuers who were in politics for some time in the past.  
+      => spain not relevant in this analysis  
+
+2. Frauke Petry
+    - unfortunately for Frauke Petry the quotes are concentrated on the topics of immigration, terrorism and discrimination and for the other topics we have almost no quotes (see distributions below). Although this focus on the immigration topic could make sense, since during her time as the leader of her party this topic was the most important topic of her party, following the "immigration crisis" in 2015, and is the reason for the partys success in Germany.
+        
+2.  Difference between Mateusz Morawiecki and the other right-wing polticians: (Mateusz Morawiecki the polish prime minister and the only right-wing poltician actually being in government in the countries we considered)
+
+    - While the other right-wing politicians are quoted in general more positivly on Russia, Mateusz Morawiecki's quotes on russia are very negative. Poland due to its proximity to russia, its history and the events in Ukrain feels threatened. ("Once Nord Stream 2 is built, Putin can do with Ukraine whatever he wants, and then we have potentially his army on the eastern border of the EU,")
+
+    - Mateusz Morawiecki is, according to the average polarity score, more positive on the topic EU than the other right-wings. If we look into the quotes, they are mostly Brexit related and mostly in favour of keeping Britian in the EU ("So let's make sure we hook London to the continent."). While when looking into the quotes of e.g. Matteo Salvini, we get sentences like: "The enemy is no longer the south and Rome but external enemies, in particular, the European Union and immigrants".
+    
+3. Matteo Salvini and Mateusz Morawiecki are postive on israeli_palestinian topic, while Marine Le Pen and Frauke Petri are negative.
+    - In this case the quotes are unclear. For Marine Le Pen e.g., they are only loosly related to the topic via mentioning terms like islam, Israel or the middle east. While for Matteo Salvini e.g. the quotes are realted to the topic, but it is still difficult even as human what a positive or negative quote would be. Is a quote in favour of Israel a positive quote? So the topic is not well formulated in this case.
+    
+4. Terrorism is generally talked about in a more negative language (negative score). The quotes are mostly related to terror attacks and ISIS. So it does make sense that most european politian will generally talk negativly about terrorism.
+
+5. Also immigration is a generally negativly talked about topic, as one would expect from right-wing politicians. The exception seems to be the polish prim minister Mateusz Morawiecki. But if we look at the quotes, the positive quotes are mostly talking in a positive way about polands/european immigration policy (wishes).("An ever greater number of countries is becoming convinced that the best solution is not to forcibly relocate refugees [ within the EU ] nor to impose fines on countries that refuse to accept them, but to expand our collaboration to help those countries which are the source of the refugee flows to Europe, as well as to harden the external borders of the European Union,") This also show that the avg score positivity score can also be flawed, especially if there are bnot many quotes or it can be misleading if the general language is positve, but the actual meaning is opposing a position.
+
+6. Covid would be an interesting topic, but unfortunately, since it only appeard at the end of the examined time period, there are almost no quotes by right-wing polticians. During the beginning of Covid, the oppinion of a non-government european politician from a smaller party was probably not important enough for the "New York Times".
+
+
+![Polarity score distribution](/assets/img/Project_graphics/polarity_score_distribution.png)
+
+If we take a look at the distribution of quote and polarity and the total number of quotes, one can see that we often don't have enough quotes in a given topic for all of the considered right-wing politicians or the other way around. This is probably caused by the nature of the dataset, being from a US news paper and trying to analyse european politicians from smaller parties. But as you see below, for high-profile politicians like heads of government the situation gets better.
