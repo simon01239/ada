@@ -45,9 +45,9 @@ The peaks distinguish quite a lot in each country:
 
 ##### <center>September 2015</center>  
 
-Let's start with the situation in **2015**. Do you remember the refugee routes?  
+Let's start with the situation in **2015**. 
 In 2015, the main route shifted from the dangerous Mediterranean, crossing from Libya to Italy, to another one crossing from Turkey to Greek islands like Lesvos, what would prove to be even deadlier.
-This explains why the peak is completely absent in Italy's point of view and, in the other hand, is quite marked in Germany or Poland.
+This explains why the peak is completely absent in Italy's point of view and, on the other hand, is quite marked in Germany or Poland.
 Over 75% of those arriving in Europe had fled conflict and persecution in Syria, Afghanistan or Iraq.
 
 The peak on this month can be sadly explained by a drammatic event that took place on 2 September 2015.
@@ -62,7 +62,7 @@ By the time Aylan's body washed ashore, more than 300,000 people had risked thei
 
 At first glance, the peak in **June 2018** is clearly caused by Italy and, most likely, by the most popular speaker in the immigration topic, Matteo Salvini. However, this huge crest could be quite weird by just looking at <a href='https://www.youtrend.it/2021/02/15/sbarchi-e-immigrazione-in-italia-il-punto-della-situazione/'>data.</a> The number of migrants in 2018 is quite low if compared to the figures of the previous years.
 
-However, something happened in Italian politics during these days. Indeed, <a href='https://en.wikipedia.org/wiki/Matteo_Salvini'>Matteo Salvini</a>, leader of the far-right party "Lega Nord", was sworn in as Deputy Prime Minister and Minister of the Interior on 1 June 2018. He immediately stated that his main aim was to drastically reduce the number of illegal immigrants to Italy.  
+However, something happened in Italian politics during these days. Indeed, <a href='https://en.wikipedia.org/wiki/Matteo_Salvini'>Matteo Salvini</a>, leader of the far-right party "Lega Nord", was sworn in as Deputy Prime Minister and Minister of the Interior on 1 June 2018. He immediately started with his main aim to drastically reduce the number of illegal immigrants to Italy.  
 
 On 10 June 2018, **Salvini**, who is also the person with the most quotes in immigration (see plot below), announced the closure of Italian ports. The vessel <b>Aquarius</b>, which carried more than 600 migrants, was refused a port of disembarkation by the Italian authorities. It was accepted by Spanish authorities, and it finally arrived at the Port of Valencia on 17 June 2018.  
 
@@ -82,7 +82,7 @@ We can see, indeed, that there are eminent European politicians:
 - Pierre Moscovici (Former European Commissioner for Economic and Financial Affairs, Taxation and Customs).
 - Ursula von der Leyen (President of the European Commission)  
 
-How was the distribution of the number of quotes per country?:  
+How was the distribution of the number of quotes per country?
 
 ![Brexit Distribution per country](/assets/img/Project_graphics/Brexit_Distribution_per_country.png) 
 
@@ -97,7 +97,7 @@ In compliance with the TEU, the UK gave formal notice to the European Council of
 
 #### <center>March 2019</center>
 
-The UK had long been expected to leave the European Union at 11pm on 29 March 2019.  However, following a House of Commons vote on 14 March 2019, the Government sought permission from the EU to extend Article 50 and agree a later Brexit date.
+The UK had long been expected to leave the European Union at 11pm on 29 March 2019.  However, following a House of Commons vote on 14 March 2019, the government sought permission from the EU to extend Article 50 and agree a later Brexit date.
 
 On 20 March 2019 the Prime Minister, Theresa May, wrote to European Council President Donald Tusk, asking to extend Article 50 until 30 June 2019.
 
@@ -130,7 +130,7 @@ In fact, the International Olympic Committee (IOC) Executive Board on this day a
 This time the main term is "liberty". In fact, in October 2017, the <b>Catalan independence referendum</b> took place.
 
 #### <center>February 2018</center>
-On 3 February 2018, in the city of Macerata, Marche, 28-year-old local Luca Traini seriously wounded, in a drive-by shooting, six African migrants.
+On 3 February 2018, in the city of Macerata, Marche, 28-year-old local Luca Traini was seriously wounded in a drive-by shooting with six African migrants.
 After the attack, <b>Traini</b> reportedly had an Italian flag draped on his shoulders and raised his arm in a Fascist salute.
 
 Traini said the attack was revenge for the murder of Pamela Mastropietro, an 18-year-old local girl whose dismembered body had been found a few days earlier, stuffed into two suitcases and dumped in the countryside. For this, a 29-year-old Nigerian national and failed asylum seeker, Innocent Oseghale, had been arrested and charged.
@@ -314,10 +314,9 @@ We choose the parties with the most quotations for each country. Hence we will c
 #### Comparison per topic
 We will now investigate in detail the correlations between the sentiment of the politicians of the selected parties for some topics.
 For each of these, we present the overall count of number of quotes per political party and within each
-political party how many are neutral, positive and negative. We will use Vader for Sentiment Analysis, because it showed a more non neutral distinction. 
+political party how many are neutral, positive and negative. We will use **Vader** for Sentiment Analysis, because it showed a more non neutral distinction. 
 
-Additionally, we also show how the sentiment evolves in time in these countries and put them side by side to look
-for any correlations.
+Additionally, we also show how the sentiment evolves in time in these countries and put them side by side to look for any correlations.
 
 #### <center>Immigration</center>
 ![ImmigrationQuotes](/assets/img/Project_graphics/Immigration_distr_quotes.png)
@@ -330,7 +329,7 @@ negative polarity corresponding to the month of January 2016.
 
 
 #### What happened in January 2016?
-During New Year's Eve celebrations in Cologne in 2015 many women were assaulted by young men "who appeared to be of Arab or North African origin",
+During New Year's celebrations in Cologne in 2015 many women were assaulted by young men "who appeared to be of Arab or North African origin",
 this caused a high wave of criticism against Germany’s large refugee population. Politicians in France, interestingly,
 also were heavily criticising what had occurred in Germany.  
 
@@ -343,31 +342,29 @@ References:
 #### <center>Israeli-palestinian</center>
 ![ImmigrationQuotes](/assets/img/Project_graphics/Israeli_sentiment.png)
 
-We can see that there are positive peaks in all countries for December 2017. This can be attributed to the US recognised Jerusalem as Israel's capital as we know from our previous analysis that. The right wing parties show a positive common opinion on these agreement.
+We can see that there are positive peaks in all countries for December 2017. This can be attributed to the US recognised Jerusalem as Israel's capital as we know from our previous analysis. All right wing parties show a positive common opinion on these agreement.
 
 #### <center>Other topics</center>  
 
-For the other topics there are no clear comparable events we can see in the plots. It is possible to see only rough trends as shown here as an example in the plot for climate change.
+For the other topics there are no clear comparable events we can see in the plots. But it is possible to see only rough trends as shown here as an example in the plot for climate change.
 
 ![ImmigrationQuotes](/assets/img/Project_graphics/climatechange_sentiment.png)
 
 ## How do important politicans of right-wing parties position themselves on different topics (immigration, climate change, EU, discrimination, covid, terrorism, russia, israeli palestenian conflict)?
 
 #### Who are the most important right-wing parties?
-In order to answer this first question, we start by loading all quotes related to the list of topics, that we previously extracted during our analysis for Research Question 1. We decided to select the right-wing "popular politicians" using only the extracted quotes related to the list of topics, instead of using all quotes, since there might be politicians who were only quoted very often on topics, which are not examined in this analysis.
-
-We chose the most popular right-wing party of each country we wanted to analyse. Except for Spain, there does not seem to be any "relevant" spanish right-wing party. Only a few far-right partys, which do not appear in the dataset at all or in the case of "Vox" only with a handful of quotes. This is why we chose Spains's center-right party instead. These are the parties we will consider: Italy: Lega Nord, Germany: Alternative for Germany, France: National Rally, Poland: Law and Justice, Spain: People's Party.  
+We chose the most popular right-wing party of each country we wanted to analyse. Except for Spain, there does not seem to be any "relevant" spanish right-wing party. Only a few far-right partys, which do not appear in the dataset at all or in the case of "Vox" only with a handful of quotes. Hence we chose Spains's center-right party instead.    
+we will consider the following parties: **Lega Nord** (Italy), **Alternative for Germany** (Germany), **National Rally** (France), **Law and Justice** (Poland), **People's Party** (Spain).  
 In order to compare the prominent right-wing politicians, we look at the most quoted politicians of each party and choose the first one, since he/she is the publicly most present member of his/her party.
 
 Our analysis showed that the most important speakers are the following:
-- Lega Nord: Matteo Salvini
-- Alternative for Germany: Frauke Petry
-- National Rally: Marine Le Pen
-- Law and Justice: Mateusz Morawiecki
-- People's Party: Miguel Arias Cañete
+- Lega Nord: **Matteo Salvini**
+- Alternative for Germany: **Frauke Petry**
+- National Rally: **Marine Le Pen**
+- Law and Justice: **Mateusz Morawiecki**
+- People's Party: **Miguel Arias Cañete**
 
 #### How do these right-wing politicians talk about the selected topics?  
-
 
 ##### <center>Polarity of right-wing politicians in a radar plot</center>
 ![Polarity right politicans](/assets/img/Project_graphics/polarity_rightwing.png)
@@ -376,34 +373,34 @@ Our analysis showed that the most important speakers are the following:
 
 1. Miguel Arias Cañete
 
-    - she was European Commissioner for Energy and Climate Action, hence highly postive opinion on climate change makes sense. 
-    - there are no quotes on most topics, only one on europe and one related to discrimination (see distributions per topics below). Therefore we can't interpret much of her.
-    - Due to a lack of data for other politicans we can neglect Spain in this analysis.
+    - she was European commissioner for energy and climate action, hence highly postive opinion on **climate change** makes sense. 
+    - there are no quotes on most topics, only one on Europe and one related to discrimination (see distributions per topics below). Therefore we can't interpret much of her.
+    - due to a lack of data for other politicans we can neglect Spain in this analysis.
 
 2. Frauke Petry
-    - unfortunately for Frauke Petry the quotes are concentrated on the topics of immigration, terrorism and discrimination and for the other topics we have almost no quotes (see distributions below). Although this focus on the immigration topic could make sense, since during her time as the leader of her party this topic was the most important topic of her party, following the "immigration crisis" in 2015, and is the reason for the party's success in Germany.
+    - unfortunately for Frauke Petry the quotes are concentrated on the topics of immigration, terrorism and discrimination and for the other topics we have almost no quotes (see distributions below). Although this focus on the **immigration** topic could make sense, since during her time as the leader of her party this topic was the most important topic of her party, following the "immigration crisis" in 2015, and is the reason for the party's success in Germany.
         
 3.  Difference between Mateusz Morawiecki and the other right-wing polticians: (Mateusz Morawiecki the polish prime minister and the only right-wing poltician actually being in government in the countries we considered)
 
-    - While the other right-wing politicians are quoted in general more positivly on Russia, Mateusz Morawiecki's quotes on russia are very negative. Poland due to its proximity to russia, its history and the events in Ukrain feels threatened. ("Once Nord Stream 2 is built, Putin can do with Ukraine whatever he wants, and then we have potentially his army on the eastern border of the EU,")
+    - While the other right-wing politicians are quoted in general more positivly on **Russia**, Mateusz Morawiecki's quotes on russia are very negative. Poland, due to its proximity to russia, its history and the events in Ukrain feels threatened. ("Once Nord Stream 2 is built, Putin can do with Ukraine whatever he wants, and then we have potentially his army on the eastern border of the EU,")
 
-    - Mateusz Morawiecki is, according to the average polarity score, more positive on the topic EU than the other right-wings. If we look into the quotes, they are mostly Brexit related and mostly in favour of keeping Britian in the EU ("So let's make sure we hook London to the continent."). While when looking into the quotes of e.g. Matteo Salvini, we get sentences like: "The enemy is no longer the south and Rome but external enemies, in particular, the European Union and immigrants".
+    - Mateusz Morawiecki is, according to the average polarity score, more positive on the topic **EU** than the other right-wings. If we look into the quotes, they are mostly Brexit related and mostly in favour of keeping Britian in the EU ("So let's make sure we hook London to the continent."). While when looking into the quotes of e.g. Matteo Salvini, we get sentences like: "The enemy is no longer the south and Rome but external enemies, in particular, the European Union and immigrants".
     
-4. Matteo Salvini and Mateusz Morawiecki are positive on israeli-palestinian topic, while Marine Le Pen and Frauke Petri are negative.
-    - In this case the quotes are unclear. For Marine Le Pen e.g., they are only loosly related to the topic via mentioning terms like islam, Israel or the middle east. While for Matteo Salvini e.g. the quotes are realted to the topic, but it is still difficult even as human what a positive or negative quote would be. Is a quote in favour of Israel a positive quote? So the topic is not well formulated in this case.
+4. Matteo Salvini and Mateusz Morawiecki are positive on **israeli-palestinian** topic, while Marine Le Pen and Frauke Petri are negative.
+    - In this case the quotes are unclear. For Marine Le Pen e.g., they are only loosly related to the topic via mentioning terms like islam, Israel or the middle east. While for Matteo Salvini e.g. the quotes are related to the topic, but it is still difficult to decide what a positive or negative quote would be. Is a quote in favour of Israel a positive quote? So the topic is not well formulated in this case.
     
-5. Terrorism is generally talked about in a more negative language (negative score). The quotes are mostly related to terror attacks and ISIS. So it does make sense that most european politian will generally talk negativly about terrorism.
+5. About **Terrorism** is talked  in a more negative language (negative score). The quotes are mostly related to terror attacks and ISIS. So it does make sense that most european politian have a negative opinion about terrorism.
 
-6. Also immigration is a generally negativly spoken topic, as one would expect from right-wing politicians. The exception seems to be the polish prime minister Mateusz Morawiecki. But if we look at the quotes, the positive quotes are mostly talking in a positive way about polands/european immigration policy (wishes).("An ever greater number of countries is becoming convinced that the best solution is not to forcibly relocate refugees [within the EU] nor to impose fines on countries that refuse to accept them, but to expand our collaboration to help those countries which are the source of the refugee flows to Europe, as well as to harden the external borders of the European Union,") This also show that the avg score positivity score can also be flawed, especially if there are not many quotes or it can be misleading if the general language is positve, but the actual meaning is opposing a position.
+6. Also **immigration** is a generally negativly spoken topic, as one would expect from right-wing politicians. The exception seems to be the polish prime minister Mateusz Morawiecki. But if we look at the quotes, the positive quotes are mostly talking in a positive way about Polands/European immigration policy (wishes).("An ever greater number of countries is becoming convinced that the best solution is not to forcibly relocate refugees [within the EU] nor to impose fines on countries that refuse to accept them, but to expand our collaboration to help those countries which are the source of the refugee flows to Europe, as well as to harden the external borders of the European Union,") This also show that the avg score positivity score can also be flawed, especially if there are not many quotes or it can be misleading if the general language is positive, but the actual meaning is opposing a position.
 
-7. Covid would be an interesting topic, but unfortunately, since it only appeard at the end of the examined time period, there are almost no quotes by right-wing polticians. During the beginning of Covid, the oppinion of a non-government european politician from a smaller party was probably not important enough for the "New York Times".
+7. **Covid** would be an interesting topic, but unfortunately, since it only appeard at the end of the examined time period, there are almost no quotes by right-wing polticians. During the beginning of Covid, the oppinion of a non-government european politician from a smaller party was probably not important enough for the "New York Times".
 
 ### Compare right-wing politicans to the heads of the government 
-Finally we want to compare the opinions of right-wing politicans to the opinion of the leading politican in that country. We consider Italy (Matteo Renzi), Germanya (Angela Merkel) and France (Emannuel Macron).
+Finally we want to compare the opinions of right-wing politicans to the opinion of the leading politican in that country. We consider Italy (Matteo Renzi), Germany (Angela Merkel) and France (Emannuel Macron).
 
 ![Polarity leading politicans](/assets/img/Project_graphics/polarity_headsgovernment.png)
 
-In all considered countrys right-wing politicians talk more negativly about immigration than the polticians in government positions in the same country.  
+In all considered countrys right-wing politicians talk more negativly about immigration than the politicans in government positions in the same country.  
 Also the heads of government seem to be closer on the considered topics
 
 Le Pen & Petry are closer to Russia than Macron and Merkel:  
@@ -420,4 +417,4 @@ References:
 Generally the same topics are relevant in the different countries. But their importance differ due to individual factors. These factors often depend the geogrpahical location of the country. As an example, immigration was the hottest topic in Italy, due to their closeness to North Africa.  
 There are only a few topics on which the different partys have a clear common opinion. But generally the trend is similar.
 The specific right wing politicans showed individual differences depending on their respective situation. But they indicated a common negative opinion on immigration (except the polish prime minister, but he had misleading quotes).
-For better and more reliable interpretations we would need more data.
+For better and more reliable interpretations we would need more data w.r.t each topic and politican.
