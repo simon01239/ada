@@ -342,7 +342,7 @@ References:
 #### <center>Israeli-palestinian</center>
 ![ImmigrationQuotes](/assets/img/Project_graphics/Israeli_sentiment.png)
 
-We can see that there are positive peaks in all countries for December 2017. This is no surprise as we know from our previous analysis that the US recognised Jerusalem as Israel's capital at that point.
+We can see that there are positive peaks in all countries for December 2017. This can be attributed to the US recognised Jerusalem as Israel's capital as we know from our previous analysis that. The right wing parties show a positive common opinion on these agreement.
 
 #### <center>Other topics</center>  
 
@@ -388,12 +388,12 @@ Our analysis showed that the most important speakers are the following:
 
     - Mateusz Morawiecki is, according to the average polarity score, more positive on the topic EU than the other right-wings. If we look into the quotes, they are mostly Brexit related and mostly in favour of keeping Britian in the EU ("So let's make sure we hook London to the continent."). While when looking into the quotes of e.g. Matteo Salvini, we get sentences like: "The enemy is no longer the south and Rome but external enemies, in particular, the European Union and immigrants".
     
-4. Matteo Salvini and Mateusz Morawiecki are postive on israeli-palestinian topic, while Marine Le Pen and Frauke Petri are negative.
+4. Matteo Salvini and Mateusz Morawiecki are positive on israeli-palestinian topic, while Marine Le Pen and Frauke Petri are negative.
     - In this case the quotes are unclear. For Marine Le Pen e.g., they are only loosly related to the topic via mentioning terms like islam, Israel or the middle east. While for Matteo Salvini e.g. the quotes are realted to the topic, but it is still difficult even as human what a positive or negative quote would be. Is a quote in favour of Israel a positive quote? So the topic is not well formulated in this case.
     
 5. Terrorism is generally talked about in a more negative language (negative score). The quotes are mostly related to terror attacks and ISIS. So it does make sense that most european politian will generally talk negativly about terrorism.
 
-6. Also immigration is a generally negativly spoken topic, as one would expect from right-wing politicians. The exception seems to be the polish prim minister Mateusz Morawiecki. But if we look at the quotes, the positive quotes are mostly talking in a positive way about polands/european immigration policy (wishes).("An ever greater number of countries is becoming convinced that the best solution is not to forcibly relocate refugees [within the EU] nor to impose fines on countries that refuse to accept them, but to expand our collaboration to help those countries which are the source of the refugee flows to Europe, as well as to harden the external borders of the European Union,") This also show that the avg score positivity score can also be flawed, especially if there are not many quotes or it can be misleading if the general language is positve, but the actual meaning is opposing a position.
+6. Also immigration is a generally negativly spoken topic, as one would expect from right-wing politicians. The exception seems to be the polish prime minister Mateusz Morawiecki. But if we look at the quotes, the positive quotes are mostly talking in a positive way about polands/european immigration policy (wishes).("An ever greater number of countries is becoming convinced that the best solution is not to forcibly relocate refugees [within the EU] nor to impose fines on countries that refuse to accept them, but to expand our collaboration to help those countries which are the source of the refugee flows to Europe, as well as to harden the external borders of the European Union,") This also show that the avg score positivity score can also be flawed, especially if there are not many quotes or it can be misleading if the general language is positve, but the actual meaning is opposing a position.
 
 7. Covid would be an interesting topic, but unfortunately, since it only appeard at the end of the examined time period, there are almost no quotes by right-wing polticians. During the beginning of Covid, the oppinion of a non-government european politician from a smaller party was probably not important enough for the "New York Times".
 
@@ -403,9 +403,7 @@ Finally we want to compare the opinions of right-wing politicans to the opinion 
 ![Polarity leading politicans](/assets/img/Project_graphics/polarity_headsgovernment.png)
 
 In all considered countrys right-wing politicians talk more negativly about immigration than the polticians in government positions in the same country.  
-
-Also the heads of government seem to be closer on the considered topics. This effect can also be seen in the distributions, e.g. on israeli-palestinian or terrorism. But we still would not draw any definit conclusions.
-
+Also the heads of government seem to be closer on the considered topics
 
 Le Pen & Petry are closer to Russia than Macron and Merkel:  
 Marine Le Pen and Frauke Petry went to european right-wing meetings hosted by Russia and Le Pen even got funding for her party from a bank close to the russian governemnt.
@@ -417,4 +415,7 @@ References:
 - <a href='https://www.washingtonpost.com/world/national-security/a-russian-bank-gave-marine-le-pens-party-a-loan-then-weird-things-began-happening/2018/12/27/960c7906-d320-11e8-a275-81c671a50422_story.html'> Russian bank gave le Pens a loan</a>
 
 
-## Summary:
+## What can we conclude with all the results?
+Generally the same topics are relevant in the different countries. But their importance differ due to individual factors. These factors often depend the geogrpahical location of the country. As an example, immigration was the hottest topic in Italy, due to their closeness to North Africa.  
+There are only a few topics on which the different partys have a clear common opinion. But generally the trend is similar.
+The specific right wing politicans showed individual differences depending on their respective situation. But they indicated a common negative opinion on immigration (except the polish prime minister, but misleading quotes).
