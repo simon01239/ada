@@ -15,7 +15,7 @@ Taking into account the quotes and the party of politicians, we will examine and
 Besides, we will investigate how politicians from different countries position themselves over the same topics, especially if they come from the same political background (i.e. right parties).
 
 ## More precise: our research questions
-1. How much does the political scenario in some hot topics (for example immigration, climate change, EU, gender discrimination, Israeli-Palestinian conflict, Russia, terrorism and Covid-19) change from one country to another? Why is that?
+1. How much does the political scenario in some hot topics (for example immigration, climate change, EU, discrimination, Israeli-Palestinian conflict, Russia, terrorism and Covid-19) change from one country to another? Why is that?
 2. Considering the most important parties of these countries, how much do their opinions and interest differ over these topics?
 3. How do the important politicians of the right-wing parties position themselves over the same topics? What can we observe if we compare them with the heads of government in the same countries?
 
@@ -24,13 +24,13 @@ Besides, we will investigate how politicians from different countries position t
 We decided to examine the situation of each country in the following topics: 
 - Immigration
 - European Union and Brexit
-- Discriminations (racism, based on gender, homophobia)
+- Discrimination (racism, based on gender, homophobia)
 - Israeli-Palestinian conflict
 - Russia and Putin
 - COVID-19 
 - Terrorism  
 
-Due to a lack of data, we will not analyze the COVID-19 and Rusia topic specifically for the first part.
+Due to a lack of data, we will not analyze the COVID-19 topic specifically for the first part.
 ### Immigration
 Let's start our journey by taking a look into one of the most controvers discussed topic in the European countries, the immigration theme. How did it develop over time?
 
@@ -373,12 +373,12 @@ Our analysis showed that the most important speakers are the following:
 
 1. Miguel Arias Cañete
 
-    - she was European commissioner for energy and climate action, hence highly postive opinion on **climate change** makes sense. 
-    - there are no quotes on most topics, only one on Europe and one related to discrimination (see distributions per topics below). Therefore we can't interpret much of her.
+    - he was European commissioner for energy and climate action, hence highly postive opinion on **climate change** makes sense. 
+    - there are no quotes on most topics, only one on Europe and one related to discrimination. Therefore we can't interpret much of him.
     - due to a lack of data for other politicans we can neglect Spain in this analysis.
 
 2. Frauke Petry
-    - unfortunately for Frauke Petry the quotes are concentrated on the topics of immigration, terrorism and discrimination and for the other topics we have almost no quotes (see distributions below). Although this focus on the **immigration** topic could make sense, since during her time as the leader of her party this topic was the most important topic of her party, following the "immigration crisis" in 2015, and is the reason for the party's success in Germany.
+    - unfortunately for Frauke Petry the quotes are concentrated on the topics of immigration, terrorism and discrimination and for the other topics we have almost no quotes. Although this focus on the **immigration** topic could make sense, since during her time as the leader of her party this topic was the most important topic of her party, following the "immigration crisis" in 2015, and is the reason for the party's success in Germany.
         
 3.  Difference between Mateusz Morawiecki and the other right-wing polticians: (Mateusz Morawiecki the polish prime minister and the only right-wing poltician actually being in government in the countries we considered)
 
