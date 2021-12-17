@@ -349,3 +349,19 @@ for any correlations.
 ![ImmigrationQuotes](/assets/img/Project_graphics/Immigration_distr_quotes.png)
 
 ![Immigration sentiment](/assets/img/Project_graphics/immigration_sentiment.png)
+
+Looking at the plot, we can notice that both Germany and France have some overlapping time when there is a high
+negative polarity corresponding to the month of January 2016.
+
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/K%C3%B6ln_nach_Silvestervorf%C3%A4llen_2015-16-4180.jpg" width=600></center>
+
+#### Explanation
+
+During New Year's Eve celebrations in Cologne in 2015 many women were assaulted by young men "who appeared to be of Arab or North African origin",
+this caused a high wave of criticism against Germany’s large refugee population. Politicians in France, interestingly,
+also were heavily criticising what had occurred in Germany.
+
+References:
+- Wikipedia
+- https://www.france24.com/en/20161222-2016-year-europe-ongoing-migrant-crisis
+- https://www.nytimes.com/2017/01/11/world/europe/germany-migrants-asylum-seekers.html
