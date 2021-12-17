@@ -328,7 +328,7 @@ Germany | France | Italy
 --- | --- | --- 
 ![Germany](/assets/img/Project_graphics/parties_germany.png) | ![France](/assets/img/Project_graphics/parties_france.png) | ![Italy](/assets/img/Project_graphics/parties_italy.png) 
 
-| Poland | Spain |
+Poland | Spain |
 --- | --- | ---
 ![Poland](/assets/img/Project_graphics/parties_poland.png) | ![Spain](/assets/img/Project_graphics/parties_spain.png) | 
 
