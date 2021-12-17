@@ -330,11 +330,11 @@ Germany | France
 
 Italy |Poland 
 --- | --- 
-![Italy](/assets/img/Project_graphics/parties_italy.png) | ![Poland](/assets/img/Project_graphics/parties_poland.png) 
+![Italy](/assets/img/Project_graphics/parties_italy.png) &nbsp; &nbsp; | ![Poland](/assets/img/Project_graphics/parties_poland.png) 
 
 Spain | &nbsp;
 --- | ---
-![Spain](/assets/img/Project_graphics/parties_spain.png) | &nbsp;
+![Spain](/assets/img/Project_graphics/parties_spain.png) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
 
 
 ![Germany](/assets/img/Project_graphics/parties_germany.png)
