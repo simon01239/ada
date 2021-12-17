@@ -4,9 +4,6 @@ title: How much does the political scenario change from one country to another?
 subtitle: A brief tour of Europe's parties  
 cover-img: "/assets/img/Colorful_Isolated_Europe_in_Watercolor.jpg "
 ---
-## Index:
-[Abstract](##-Abstract)  
-[Research questions](## Methods)
 
 ## Abstract
 Europe, 2019.  
@@ -396,14 +393,12 @@ The top speakers for each party are:
 
 1. Miguel Arias Cañete
 
-    - was European Commissioner for Energy and Climate Action => highly postive on climate change makes sense  
-    - no quotes on most topics and one on europe and one related to discrimination (see diostributions per topics below) => doesnt tell us anything  
-      => not relevant, alternative politicians: There is no right-wing party in spain, only some very small far-right partys which almost don't have any quotes at all  
-    - other politicians which were quoted relativly often are prime ministers and entreprenuers who were in politics for some time in the past.  
-      => spain not relevant in this analysis  
+    - she was European Commissioner for Energy and Climate Action, hence highly postive opinion on climate change makes sense. 
+    - there are no quotes on most topics, only one on europe and one related to discrimination (see distributions per topics below). Therefore we can't interpret much of her.
+    - Due to a lack of data for other politicans we can neglect Spain in this analysis.
 
 2. Frauke Petry
-    - unfortunately for Frauke Petry the quotes are concentrated on the topics of immigration, terrorism and discrimination and for the other topics we have almost no quotes (see distributions below). Although this focus on the immigration topic could make sense, since during her time as the leader of her party this topic was the most important topic of her party, following the "immigration crisis" in 2015, and is the reason for the partys success in Germany.
+    - unfortunately for Frauke Petry the quotes are concentrated on the topics of immigration, terrorism and discrimination and for the other topics we have almost no quotes (see distributions below). Although this focus on the immigration topic could make sense, since during her time as the leader of her party this topic was the most important topic of her party, following the "immigration crisis" in 2015, and is the reason for the party's success in Germany.
         
 2.  Difference between Mateusz Morawiecki and the other right-wing polticians: (Mateusz Morawiecki the polish prime minister and the only right-wing poltician actually being in government in the countries we considered)
 
@@ -411,12 +406,12 @@ The top speakers for each party are:
 
     - Mateusz Morawiecki is, according to the average polarity score, more positive on the topic EU than the other right-wings. If we look into the quotes, they are mostly Brexit related and mostly in favour of keeping Britian in the EU ("So let's make sure we hook London to the continent."). While when looking into the quotes of e.g. Matteo Salvini, we get sentences like: "The enemy is no longer the south and Rome but external enemies, in particular, the European Union and immigrants".
     
-3. Matteo Salvini and Mateusz Morawiecki are postive on israeli_palestinian topic, while Marine Le Pen and Frauke Petri are negative.
+3. Matteo Salvini and Mateusz Morawiecki are postive on israeli-palestinian topic, while Marine Le Pen and Frauke Petri are negative.
     - In this case the quotes are unclear. For Marine Le Pen e.g., they are only loosly related to the topic via mentioning terms like islam, Israel or the middle east. While for Matteo Salvini e.g. the quotes are realted to the topic, but it is still difficult even as human what a positive or negative quote would be. Is a quote in favour of Israel a positive quote? So the topic is not well formulated in this case.
     
 4. Terrorism is generally talked about in a more negative language (negative score). The quotes are mostly related to terror attacks and ISIS. So it does make sense that most european politian will generally talk negativly about terrorism.
 
-5. Also immigration is a generally negativly talked about topic, as one would expect from right-wing politicians. The exception seems to be the polish prim minister Mateusz Morawiecki. But if we look at the quotes, the positive quotes are mostly talking in a positive way about polands/european immigration policy (wishes).("An ever greater number of countries is becoming convinced that the best solution is not to forcibly relocate refugees [ within the EU ] nor to impose fines on countries that refuse to accept them, but to expand our collaboration to help those countries which are the source of the refugee flows to Europe, as well as to harden the external borders of the European Union,") This also show that the avg score positivity score can also be flawed, especially if there are bnot many quotes or it can be misleading if the general language is positve, but the actual meaning is opposing a position.
+5. Also immigration is a generally negativly spoken topic, as one would expect from right-wing politicians. The exception seems to be the polish prim minister Mateusz Morawiecki. But if we look at the quotes, the positive quotes are mostly talking in a positive way about polands/european immigration policy (wishes).("An ever greater number of countries is becoming convinced that the best solution is not to forcibly relocate refugees [within the EU] nor to impose fines on countries that refuse to accept them, but to expand our collaboration to help those countries which are the source of the refugee flows to Europe, as well as to harden the external borders of the European Union,") This also show that the avg score positivity score can also be flawed, especially if there are not many quotes or it can be misleading if the general language is positve, but the actual meaning is opposing a position.
 
 6. Covid would be an interesting topic, but unfortunately, since it only appeard at the end of the examined time period, there are almost no quotes by right-wing polticians. During the beginning of Covid, the oppinion of a non-government european politician from a smaller party was probably not important enough for the "New York Times".
 
@@ -432,7 +427,7 @@ Finally we want to compare the opinions of right-wing politicans to the opinion 
 
 In all considered countrys right-wing politicians talk more negativly about immigration than the polticians in government positions in the same country.  
 
-Also the heads of government seem to be closer on the considered topics. This effect can also be seen in the distributions, e.g. on israeli_palestinian or terrorism. But we still would not draw any definit conclusions.
+Also the heads of government seem to be closer on the considered topics. This effect can also be seen in the distributions, e.g. on israeli-palestinian or terrorism. But we still would not draw any definit conclusions.
 
 
 Le Pen & Petry are closer to Russia than Macron and Merkel:  
