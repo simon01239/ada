@@ -326,7 +326,7 @@ Let us first take a look which parties we will consider by plotting the parties 
 
 Germany | France 
 --- | --- 
-![Germany](/assets/img/Project_graphics/parties_germany.png) | ![France](/assets/img/Project_graphics/parties_france.png  &nbsp; &nbsp; &nbsp; &nbsp;) 
+![Germany](/assets/img/Project_graphics/parties_germany.png) | ![France](/assets/img/Project_graphics/parties_france.png) &nbsp; &nbsp; &nbsp; &nbsp;
 
 Italy |Poland 
 --- | --- 
